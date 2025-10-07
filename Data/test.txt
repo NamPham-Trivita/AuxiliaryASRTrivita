@@ -1,0 +1,100 @@
+audio_datasets/1/80.wav|có phải những hiện thực song song đang tồn tại cùng với thế giới của chúng ta .|1
+audio_datasets/1/92.wav|đây là hội an , nơi mà vào thế kỷ mười sáu vẫn đang là thương cảng sầm út bậc nhất tại đông nam á .|1
+audio_datasets/0/354.wav|một điều quan trọng nữa là muốn đáp ứng được nhu cầu của người khác , bạn luôn cần đặt bản thân vào vị trí của họ .|0
+audio_datasets/1/13.wav|chúng ta sẽ không đi sâu vào phân tích .|1
+audio_datasets/1/208.wav|ngay cả gia đình , vợ lúa của vương quốc , người ta cũng không muốn bán gạo ra thị trường .|1
+audio_datasets/0/207.wav|con người chúng ta mỗi khi thành công chỉ số thông minh của ta sẽ lại giảm xuống một chút .|0
+audio_datasets/0/415.wav|bởi vì tác giả đến giờ chúng ta vẫn chưa thể nào tìm được chứng cứ cho kết luận này .|0
+audio_datasets/0/368.wav|sau này , tôi sẽ không tham gia vào các hoạt động như vậy . vân vân .|0
+audio_datasets/1/300.wav|nhưng sau đó hầu hết đều được thả ra sau khi họ cam kết thanh lập những công ty phục vụ cho nền kinh tế tập trung mà ông park và đội ngũ tham miu đã hoạch định sán .|1
+audio_datasets/0/159.wav|thứ hai , học cách giải phóng cảm xúc của mình .|0
+audio_datasets/0/421.wav|dù yêu thương đến đâu , đừng bao giờ đặt cả cuộc đời mình vào tay người khác .|0
+audio_datasets/0/16.wav|trong lòng mỗi chúng ta đều có một đứa trẻ . nỗi đau quá khứ nó cứ đeo đẳng hết lần này đến lần khác ảnh hưởng sâu đến cuộc sống hiện tại của chúng ta .|0
+audio_datasets/0/272.wav|bởi vì phân của bạn có khỏe mạnh hay không là rất quan trọng với cơ thể .|0
+audio_datasets/0/145.wav|lúc này bạn sẽ thấy đứa trẻ sẽ không thể học cách hợp tác tốt từ cha mẹ của nó .|0
+audio_datasets/0/360.wav|tất nhiên là nó không hề sai .|0
+audio_datasets/1/430.wav|ngô đình diệm quay lại sài gòn với bảo đại .|1
+audio_datasets/1/96.wav|nhưng chắc là tập cận bình đã không tìm thấy ai phù hợp .|1
+audio_datasets/1/223.wav|nếu muốn hỗ trợ , hãy hỏi mao .|1
+audio_datasets/0/331.wav|cung cấp cho bạn video nào .|0
+audio_datasets/0/30.wav|cậu ấy nhớ mới đây thôi , cậu ấy vẫn còn sáu mươi con kiểu , nhưng mà giờ thì cậu chẳng còn gì cả .|0
+audio_datasets/0/193.wav|ashley là người đàn ông cô yêu nhất trong cuộc đời này .|0
+audio_datasets/0/425.wav|vậy là toàn bộ tài khoản của câu lạc bộ đã có hai mươi nghìn đồng mark để mọi người có thể bắt đầu đầu tư .|0
+audio_datasets/0/274.wav|thì hãy bắt tay và hành động ngay .|0
+audio_datasets/1/136.wav|thời gian càng trôi qua , ký ức trở nên mờ nhạt và dễ bị nhầm lẫn hơn .|1
+audio_datasets/0/413.wav|vậy loại nghiện gì sẽ khiến chúng ta gặp nguy hại trực tiếp tới tính mạng và tuổi thọ .|0
+audio_datasets/1/267.wav|háng ba năm một nghìn bốn trăm năm mươi ba , tám mươi nghìn quân ottoman tiến về constantinople , cách đó hai trăm ba mươi tám kí lô mét .|1
+audio_datasets/1/167.wav|mà còn lên tương lai của trung quốc .|1
+audio_datasets/1/317.wav|nhưng ông vẫn cần có xung đột và sự phục tung tại đây .|1
+audio_datasets/0/166.wav|nhưng chúng ta đã dành cả cuộc đời để trở thành ai đó .|0
+audio_datasets/0/1.wav|bước đầu tiên là chữ cái ai .|0
+audio_datasets/0/249.wav|cơ chế của cơ thể đang giúp bạn chút bỏ những nỗi đau khổ .|0
+audio_datasets/0/226.wav|để tìm hiểu kỹ hơn , hãy tìm đọc thêm về cuốn sách này .|0
+audio_datasets/1/449.wav|nhưng ngoại trưởng mỹ james blaine nói vào năm một nghìn tám trăm tám mươi mốt .|1
+audio_datasets/1/49.wav|quay lại thế kỷ mười bảy , khi scotland là một vương quốc độc lập dưới sự trị vì của vua james đệ lục .|1
+audio_datasets/1/17.wav|mục đích sau cùng là để chấm dứt bạo lực , giữa hai bên mà người anh không thể kiểm soát .|1
+audio_datasets/1/54.wav|napster đã tạo ra thói quen nghe nhạc miễn phí cho mọi người .|1
+audio_datasets/0/174.wav|vậy tại sao chúng ta phải học cách nhận biết toàn diện về đau khổ , chấp nhận dù như thế nào thì đau khổ vẫn luôn tồn tại , để làm gì .|0
+audio_datasets/0/53.wav|nhưng càng muốn lấp đầy bản thân thì càng không thể tích lũy thực sự .|0
+audio_datasets/0/419.wav|và khi ba mươi tuổi , một lần nữa chúng ta lại tự cúi đầu và hỏi .|0
+audio_datasets/1/88.wav|và ông chính là cha của đương kim chủ tịch trung quốc tập cận bình .|1
+audio_datasets/1/321.wav|lại nói về người mãn châu , ở trong đại lục .|1
+audio_datasets/0/95.wav|trong cuộc sống gia đình , phê bình như thế nào mới là đúng cách .|0
+audio_datasets/1/407.wav|bạn có thể xem video đó trên kênh .|1
+audio_datasets/1/106.wav|và chính quyền cuba vẫn an toàn .|1
+audio_datasets/0/278.wav|chỉ cần chuyên sâu một năng lực là có thể thành công nữa .|0
+audio_datasets/0/112.wav|hay có những khi phải nghiên cứu thêm một số cuốn sách khác để hiểu rõ một vấn đề trong sách .|0
+audio_datasets/0/39.wav|anh ta bị đồng nghiệp chế diễu , nhưng khi đồng nghiệp vay tiền thì vẫn ra tay giúp đỡ .|0
+audio_datasets/0/266.wav|và tiến hành những bước sơ bộ .|0
+audio_datasets/0/144.wav|ông vua ban ra các xác lệnh nghiêm ngặt đến những thần dân mà ông ấy tự tưởng tượng ra .|0
+audio_datasets/0/69.wav|dù bạn biết gãi sẽ bị xước , sẽ bị nhiễm trùng , mà bạn vẫn cứ phải gãi .|0
+audio_datasets/0/133.wav|vì vậy , cứ sống hết mình và trọn vẹn mỗi ngày , tất cả những thứ còn lại hãy để thoạn theo dòng chảy của tự nhiên .|0
+audio_datasets/0/200.wav|phật giáo truyền thống đó là trân trọng và biết ơn một cách chân thành về mọi điều xảy ra với chính bản thân mình .|0
+audio_datasets/1/97.wav|chính vì thế , từ đầu thế kỷ mười chín , những thương gia người anh ở hồng kông và singapore đã thúc đẩy chính phủ của họ chiếm lấy sài gòn rồi .|1
+audio_datasets/0/393.wav|tiếp đến điều thứ hai , chúng ta cần phải học cách chấp nhận sự giang buộc và tìm thấy sự tự chủ ngay cả trong kiểm soát .|0
+audio_datasets/0/371.wav|đừng tìm kiếm câu trả lời đến từ bên ngoài .|0
+audio_datasets/1/277.wav|tổng thu nhập quốc dân , bình quân đầu người , tăng vò từ tám mươi bảy đô lên khoảng mười chín nghìn hai trăm ba mươi mốt đô .|1
+audio_datasets/1/87.wav|công ty này rất may mắn .|1
+audio_datasets/1/332.wav|năm hai nghìn không trăm linh chín , chiến tranh chechnya chính thức kết thúc .|1
+audio_datasets/0/369.wav|đó chính là gọi ý , khao khát , phản ứng và phần thưởng .|0
+audio_datasets/0/51.wav|phải cách đến hai mươi ba năm sau , người ta mới trao giải nobel cho ông .|0
+audio_datasets/0/217.wav|ví dụ , tôi là bố mẹ nó thì đương nhiên tôi có quyền quát đánh nó khi mà nó hư hỗn không nghe lời tôi .|0
+audio_datasets/0/245.wav|rồi , còn một nguyên tắc quan trọng không kém có thể giúp chúng ta vượt qua được khó khăn mà tìm thấy niềm vui và ý nghĩa trong cuộc sống .|0
+audio_datasets/0/359.wav|thì giống như là xây một ngôi nhà với nền móng không vững .|0
+audio_datasets/1/206.wav|sinh ra tại frankfurt , một thành phố của đức , vào năm một nghìn tám trăm mười bốn .|1
+audio_datasets/0/23.wav|nhưng lẽ thường này không nói cho chúng ta biết rằng , người nghèo đến từ đâu , và nguyên nhân gì dẫn đến nghèo .|0
+audio_datasets/0/257.wav|thậm chí có người đã xuất bản một tạp chí với tên gọi là người lười để dạy bạn cách sống hạnh phúc .|0
+audio_datasets/0/244.wav|nhưng anh ta vẫn không hề bỏ cuộc mà tự ra làm riêng .|0
+audio_datasets/0/280.wav|vì vậy khi học chúng ta không nên để phòng quá ấm áp , bật điều hòa , mở quạt sưởi .|0
+audio_datasets/0/256.wav|một nhà văn cũng đã từng nói , cuộc sống là một sân tập , cho dù bạn có bao nhiêu phương pháp thì cũng cần phải thực hành chúng trong thực tế .|0
+audio_datasets/0/177.wav|morris đã sử dụng tất cả các kiến thức của mình về động vật học .|0
+audio_datasets/0/208.wav|kết cục của câu chuyện không quan trọng duy nhất điều chắc chắn về cuộc sống là cái chết .|0
+audio_datasets/1/146.wav|họ lại bảo bạn hãy chờ đó . năm một nghìn chín trăm năm mươi sáu , bạn sẽ thống nhất sau một cuộc tổng tuyển cử .|1
+audio_datasets/1/123.wav|bạn thấy cần phải làm gì đó khác .|1
+audio_datasets/0/308.wav|muốn cải thiện được tình trạng này , bạn cần phải học cách bình tĩnh trong khi ăn uống .|0
+audio_datasets/1/374.wav|họ thuyết phục những tướng trung thành của ngô đình diệm gia nhập cùng mình .|1
+audio_datasets/1/392.wav|súng ống , bom đạn , đốt nhà cửa , và cả xâm phạm nhân quyền .|1
+audio_datasets/0/137.wav|vất vả đầy hòn đá lên núi là vậy .|0
+audio_datasets/0/386.wav|khó có thể nào tưởng tượng được .|0
+audio_datasets/0/19.wav|các nhà nghiên cứu khác cũng làm nghiên cứu cho một nhóm đối tượng ngậm bút chì giữ cho cơ mặt mỉm cười và xem một bộ phim hoạt hình .|0
+audio_datasets/0/185.wav|bạn hãy quan sát công thức này ở trên màn hình .|0
+audio_datasets/1/324.wav|quy nhơn đã cung cấp gần một phần năm tổng số ba trăm bốn mươi mốt thuyền do chính quyền mộ để trở thóc gạo từ đồng băng sông cửu long tới thuận hóa .|1
+audio_datasets/1/170.wav|ken saro wiwa thậm chí còn không ở đó tại ngày hôm xảy ra vụ án .|1
+audio_datasets/1/95.wav|tất cả chỉ là một câu chuyện hoang đường của kurt boal .|1
+audio_datasets/0/284.wav|ông ấy đã chỉ ra cách để con người gian luyện đức tính tốt đó là luôn không ngừng tìm ra cho mình điểm cắt vàng . vậy điểm cắt vàng ở đây là gì .|0
+audio_datasets/0/152.wav|ngoài việc giúp cho chúng ta hiểu được kiến thức , thì biểu tượng tinh thần cũng có nhiệm vụ là giúp bạn sàng lọc những kiến thức mới .|0
+audio_datasets/0/383.wav|ông đã dành cả cuộc đời mình cho việc phục vụ và giúp đỡ người khác .|0
+audio_datasets/0/416.wav|thể hiện ra cảm xúc của chính mình .|0
+audio_datasets/1/23.wav|mặc kệ người dân , tổng thống mỹ elisabeth graham nói không .|1
+audio_datasets/1/383.wav|theo lệnh , chính quyền nigeria sử dụng quân đội để đàn áp những người biểu tình .|1
+audio_datasets/0/297.wav|cô đã bắt đầu để cho số phận xám xịt , từng chút một được bừng nở sức sống .|0
+audio_datasets/0/414.wav|bởi chính họ cũng là người đang không biết bày tỏ .|0
+audio_datasets/0/167.wav|họ sẽ dễ mất ngủ trở nên trầm cảm và hay đưa ra những quyết định sai lầm trong thời điểm này .|0
+audio_datasets/0/28.wav|khi bạn có lòng hiếu kì về thứ gì đó , bạn sẽ thích thú quan tâm tới nó .|0
+audio_datasets/1/444.wav|và đó cũng là lúc họ thực hiện kế hoạch bào phò .|1
+audio_datasets/1/235.wav|và mặc dù thời đó người hán xem ông là đại hán gian .|1
+audio_datasets/1/159.wav|cuộc thanh trừng ngày lễ thánh bartholomew .|1
+audio_datasets/0/102.wav|vậy hồi hải mã dựa vào đâu để quyết định lựa chọn cái nào cần nhớ lâu .|0
+audio_datasets/1/226.wav|người mỹ thì không coi ông ta là bạn , nhưng ông ta chỉ cần bơm đường , thật nhiều đường mía cho mỹ .|1
+audio_datasets/0/265.wav|thì đều không phải quyết định cốt lõi đúng đắn .|0
+audio_datasets/0/160.wav|tại sao phải mất hai mươi ba năm để giải quyết được vấn đề .|0

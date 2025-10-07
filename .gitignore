@@ -1,0 +1,8 @@
+*.pth
+__pycache__
+audio_datasets
+all_vivoice_600.parquet
+logs
+all_vivoice_600_new.parquet
+.idea
+*.pyc

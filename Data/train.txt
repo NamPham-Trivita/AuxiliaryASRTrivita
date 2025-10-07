@@ -1,0 +1,795 @@
+audio_datasets/1/179.wav|như thế là đủ để kéo sang đánh việt nam .|1
+audio_datasets/1/122.wav|tôi hoàn toàn không muốn các bạn mất đi những điều không đáng mất .|1
+audio_datasets/1/283.wav|nhưng , vì sao họ lại muốn có đà nẵng đến thế .|1
+audio_datasets/1/254.wav|người anh kéo tới tận washington và đốt phá nhà trang .|1
+audio_datasets/1/158.wav|cia thất bại y như cách họ thất bại với castro .|1
+audio_datasets/0/21.wav|nhìn lại thì , số phận đã đối xử rất tốt với trin .|0
+audio_datasets/0/173.wav|giữ vững , tiếp tục , bạn sẽ vượt qua và đạt được chiến thắng .|0
+audio_datasets/1/378.wav|tiến đều windows phone về bên kia thế giới và khuyên người dùng hãy về lại với ios và android .|1
+audio_datasets/0/344.wav|thật chẳng hiểu nổi , chẳng có ý nghĩa gì cả .|0
+audio_datasets/1/409.wav|mục đích là để kiếm ngoại tệ .|1
+audio_datasets/1/38.wav|vì đã hứa với cuba .|1
+audio_datasets/0/143.wav|tập trung mới có thể đem lại niềm vui cho bạn trong quá trình thực hiện một việc gì đó .|0
+audio_datasets/1/154.wav|spotify cung cấp miễn phí dữ liệu đó cho các nghệ sĩ để giúp họ sử dụng nền tảng này tốt hơn .|1
+audio_datasets/1/360.wav|ít lâu sau , miền bắc thuộc liên xô cũng được kim min sung lên làm lãnh đạo .|1
+audio_datasets/0/191.wav|bạn bình thường làm việc với thành tích tốt như thế , công ty có ít người làm được như bạn , nên không cần phải để lời ông sếp ấy trong lòng làm gì .|0
+audio_datasets/0/396.wav|khi nào chúng ta ăn , khi nào chúng ta thức dậy và khi nào chúng ta đi vệ sinh .|0
+audio_datasets/0/128.wav|nếu muốn duy trì quyền kiểm soát hệ thống tạo mạch của mình , bạn thực sự có thể làm điều đó thông qua một chế độ ăn uống hợp lý , đặc biệt với những người khỏe mạnh .|0
+audio_datasets/0/12.wav|khi không được mạch máu nuôi dưỡng , thì những khối u nhỏ này không thể hoạt động .|0
+audio_datasets/1/276.wav|các nhà máy hoạt động nhộn nhịp và hoạt động thương mại bùng nổ .|1
+audio_datasets/1/236.wav|đáng tiêu binh bị lưu đầy , còn lưu thiếu kỳ còn tồi tệ hơn , chết trong giam cầm và ô nhục .|1
+audio_datasets/1/303.wav|stalin đã đúng , phần lan ngả về phe trục và ủng hộ hitler hòng lấy lại những lãnh thổ đã mất ở chiến tranh mùa đông .|1
+audio_datasets/0/304.wav|không thay đổi những tư duy này thì nỗ lực đến mấy cũng vẫn nghèo .|0
+audio_datasets/0/305.wav|trong năng đoạn kim cương có nói từng lời nói , hành động , ý niệm của chúng ta đều có những hậu quả tương ứng .|0
+audio_datasets/1/145.wav|singapore của lý quang diệu vẫn là một thiên đường cho các nhà đầu tư .|1
+audio_datasets/1/325.wav|vì thế để đáp ứng nhu cầu , các dịch vụ hạng sàng cũng sớm xuất hiện .|1
+audio_datasets/1/173.wav|hàng trăm ngàn người là nạn nhân của vũ khí hủy diện hàng loạt .|1
+audio_datasets/0/426.wav|nhiều người cho rằng chăm chỉ là có khả năng chịu khó , chịu khổ .|0
+audio_datasets/1/292.wav|một yếu tố lớn giúp ukraine , không nhanh chóng sụp đổ như nhiều người nghĩ ban đầu , đó là trợ giúp từ phương tây .|1
+audio_datasets/0/108.wav|ngoài thuốc ngủ , nhiều người nghĩ rằng rượu có thể giúp chúng ta ngủ ngon hơn , điều này nó thực sự sai lầm .|0
+audio_datasets/1/18.wav|hầu hết tiền bạc thu được của quốc gia này cháy thẳng vào túi ông ta .|1
+audio_datasets/0/179.wav|trong cuộc sống hàng ngày , não bộ thường xuyên chuyển đổi liên tục giữa hai chế độ này và chúng đều rất quan trọng trong quá trình học .|0
+audio_datasets/0/15.wav|có lẽ rất nhiều lần , anh đã vượt lên nỗi cô đơn không được người khác thấu hiểu .|0
+audio_datasets/1/188.wav|kể cả sau này , khi đã thôi giữ chức tổng thống .|1
+audio_datasets/0/262.wav|ngài không hề buồn chán mà còn vui vẻ hơn .|0
+audio_datasets/0/97.wav|nhưng ngay cả những nụ cười đó đôi khi cũng không phải là chân thành , mà chỉ là nụ cười buồn , nụ cười đồng cảm , nụ cười giả vờ .|0
+audio_datasets/0/409.wav|xin hãy tự hỏi .|0
+audio_datasets/0/358.wav|thường xuyên đưa ra ý kiến cho người khác .|0
+audio_datasets/0/397.wav|mọi người đều khuyên ông inamori kazuo khi đang có nhiều tiền như vậy thì nên tích chữ mua nhà ngay đi .|0
+audio_datasets/0/127.wav|bạn có thể bị lấy đi bất cứ thứ gì , nhưng không thể đánh mất quyền lựa chọn .|0
+audio_datasets/0/195.wav|bạn cần tiếp nhận những khác biệt của nơi kia .|0
+audio_datasets/1/313.wav|lê quỳ đồn có nhận xét trong phủ biên tạp lục như sau .|1
+audio_datasets/1/363.wav|niên sâu tiến và bước lên .|1
+audio_datasets/0/49.wav|con người thực sự là tổng thể của tất cả những trải nghiệm trong quá khứ .|0
+audio_datasets/0/219.wav|khi đi , ý thức rằng mình đang đi .|0
+audio_datasets/0/232.wav|ông trở thành người ngoài hành tinh .|0
+audio_datasets/1/375.wav|thế kỷ thứ mười sáu và mười bảy là giai đoạn bành trướng mạnh nhất của đế chế ottoman .|1
+audio_datasets/0/72.wav|chết lý điểm cắt vàng này nó gần giống với thuyết trung dung của khổng tử .|0
+audio_datasets/1/433.wav|thế là , thỏa thuận được ký kết .|1
+audio_datasets/0/322.wav|khi bạn đang bận rộn với công việc , thì việc ăn cơm lúc này chỉ để thỏa mãn cơn đói và bạn cũng không muốn dành quá nhiều thời gian cho nó .|0
+audio_datasets/0/41.wav|sau đó , ông quyết định bắt đầu quản lý tài chính , phát triển và thực hiện một loạt chiến lược , của riêng mình .|0
+audio_datasets/0/326.wav|học tùy ý theo cảm hứng là rất có thể muôn đồng .|0
+audio_datasets/0/243.wav|thế nhưng mà bây giờ mỗi lần mình nói chuyện với bạn , bạn cũng chỉ nói suốt về hai đứa con mới lớn , than thở , công việc bật biệu ra sao , tiền bạc áp lực như thế nào .|0
+audio_datasets/1/395.wav|không giống như các nước cộng sản khác ở châu âu , tito không để nam từ trở thành vệ tinh của liên xôn .|1
+audio_datasets/1/443.wav|đúng rồi , nó đến từ gia đình dâu sụ và quyền lực của hắn ta .|1
+audio_datasets/1/187.wav|ông vẫn còn đủ khỏe và sẵn sàng trở lại cho một cuộc cách mạng mới xoay quanh mình .|1
+audio_datasets/0/363.wav|có thể yêu cầu katie vào mỗi ngày họp nhóm trước khi đi phải nhắn tin cho bạn .|0
+audio_datasets/0/399.wav|vô ngã có nghĩa là sự vật kể cả bản thân chúng ta không có tự tánh tuyệt đối .|0
+audio_datasets/1/285.wav|và tác phẩm nghệ thuật rất quan trọng và rất hiếm .|1
+audio_datasets/0/60.wav|thứ hai , dân số ngày càng tăng , chỉ số hạnh phúc giảm đi rất nhiều .|0
+audio_datasets/0/4.wav|điều này mà xảy ra thì sẽ vô cùng phiền phức .|0
+audio_datasets/0/66.wav|tôi nên hành động như thế nào , để giúp tâm , thân hợp nhất .|0
+audio_datasets/1/195.wav|người kế nhiệm là người vợ thứ ba của ông , isabel martínez de peron , cũng không thể cải thiện được tình hình .|1
+audio_datasets/1/349.wav|họ cần tới một quốc gia trung lập để tránh những cuộc xung đột chính trị hoặc tôn giáo .|1
+audio_datasets/0/405.wav|nên cầm điện thoại hay cuốn sách .|0
+audio_datasets/1/191.wav|sau nhiều ngày rong ruổi , columbus đặt chân lên một hòn đảo .|1
+audio_datasets/0/40.wav|và cuối cùng , nền tảng thứ ba để xây dựng cuộc sống hạnh phúc đó là siêng năng .|0
+audio_datasets/1/172.wav|các sản phẩm xa xỉ như mỹ phẩm , quần áo thời trang cho đến xe hơi cao cấp đều bị hạn chế nhập khẩu ở mức tối đa để nguồn vốn không bị chảy ra nước ngoài .|1
+audio_datasets/0/398.wav|nhưng vạn vật và chúng ta tất cả đều là một .|0
+audio_datasets/1/439.wav|trong số này , ý mới tới trung quốc chứ chưa từng đến việt nam .|1
+audio_datasets/0/422.wav|cuối cùng hồi hải mã sẽ phải thắc mắc , sao cái thông tin này đến nhiều như thế .|0
+audio_datasets/1/432.wav|một cách rất cộng sản của mình .|1
+audio_datasets/0/171.wav|sở thích tiêu cực là một điều cực kỳ nguy hiểm , bởi khi con voi quá tập trung vào thông tin tiêu cực , tạo ra phản ứng không tích cực .|0
+audio_datasets/0/132.wav|bởi nghiện diệu là một điều đáng xấu hổ .|0
+audio_datasets/0/417.wav|khi đạt tới cảnh giới này sẽ khó có mà quên được .|0
+audio_datasets/1/453.wav|con đường giao thương quan trọng nhất để kết nối giữa đồng bằng miền biển với miền thượng là tại thị trấn cam lộ .|1
+audio_datasets/1/24.wav|người pháp thua cuộc và phải ngồi vào bàn đàm phán ở geneva .|1
+audio_datasets/1/460.wav|ông ta muốn có thêm sự bảo vệ .|1
+audio_datasets/1/36.wav|tất nhiên là moscow phản đối gai gắt .|1
+audio_datasets/0/120.wav|sự gắn bó thực sự không phụ thuộc vào người khác , mà bắt nguồn từ cảm xúc của chính mình .|0
+audio_datasets/0/222.wav|điều cốt lõi của cuộc sống đó là nằm ở hai chữ .|0
+audio_datasets/1/257.wav|thì lại không muốn điều đó .|1
+audio_datasets/0/238.wav|xin lỗi đã làm bố mẹ thất vọng nhưng mà đó là sự thật .|0
+audio_datasets/0/148.wav|đứa trẻ mới hỏi mẹ rằng .|0
+audio_datasets/1/78.wav|ông trích lời tuyên ngôn độc lập của nước mỹ năm một nghìn bảy trăm bảy mươi sáu để làm luận chứng cho mình .|1
+audio_datasets/0/279.wav|bạn sẽ thấy sự hợp tác đầu tiên bắt đầu từ tình yêu thực sự của mẹ dành cho con .|0
+audio_datasets/1/190.wav|trong khi đó , lãnh đạo trung quốc là tập cận bình cũng là người cứng rắn trong việc đem đài loan quay về đại lục .|1
+audio_datasets/1/67.wav|putin có thể vẫn mơ về một nước nga với quy mô lớn nhất từng có trong quá khứ , nhưng có lẽ không phải ở thời điểm này .|1
+audio_datasets/0/52.wav|nếu bạn muốn dạy học mục đích ban đầu của bạn là truyền đạt kiến thức chứ không phải là làm mọi cách để đạt được danh hiệu này trước vị nọ .|0
+audio_datasets/1/320.wav|nhưng nó vẫn thua xa một lĩnh vực khác .|1
+audio_datasets/0/255.wav|nó chìm tới tám mươi phần trăm hệ thống miễn dịch của cả cơ thể .|0
+audio_datasets/0/150.wav|đó là sự định nghĩa hạn hẹp về thành công mà môi trường từ dư luận đem lại .|0
+audio_datasets/1/162.wav|theo vào đó , ông chỉ tin tưởng chính mình .|1
+audio_datasets/0/126.wav|và khi chúng ta sống để đem lại lợi ích cho mọi người , cho thế giới này tự khắc chúng ta sẽ tìm ra thấy ý nghĩa của cuộc đời mình .|0
+audio_datasets/0/55.wav|nhưng ngay cả khi người này đến trước một giờ thì đã thấy charlie munger đến sớm hơn và đang ngồi chăm chú đọc rồi .|0
+audio_datasets/0/236.wav|anh ấy cưới một người vợ biết quản lý gia đình và có hai đứa con ngoan ngoãn , xinh xắn .|0
+audio_datasets/1/132.wav|và gần đây là gameini .|1
+audio_datasets/0/26.wav|tiến về phía trước ngồi . đây là bước đầu tiên để bạn lấy lại sự đánh giá , tôn trọng , công bằng trong môi trường làm việc .|0
+audio_datasets/1/9.wav|nhưng ở đây , họ vẫn phải chịu sự thống trị của người nga .|1
+audio_datasets/0/341.wav|lúc này bạn thực sự chưa trở về với chính mình .|0
+audio_datasets/0/123.wav|đừng giữ những điều không vui trong lòng , đừng lãng phí năng lượng của mình cho những điều khó chịu .|0
+audio_datasets/0/385.wav|bạn biết bạn đang làm gì .|0
+audio_datasets/0/196.wav|bà xây ngôi nhà lớn nhất ở markandle bằng số tiền kiếm được nhờ làm việc chăm chỉ .|0
+audio_datasets/0/292.wav|vì khi bạn có thể gọi tên được tình yêu của bạn với người đó là gì , cũng là lúc bạn có thể hiểu được bản chất của nó .|0
+audio_datasets/1/451.wav|vậy thì làm sao để chúng ta hạn chế được ảnh hưởng của hiệu ứng mandela .|1
+audio_datasets/0/180.wav|về tính rõ ràng , bạn có thể hỏi như sau . điều này có thể giải thích cụ thể hơn không .|0
+audio_datasets/0/13.wav|giống như trong lòng ẩn chứa một ngọn lửa .|0
+audio_datasets/1/108.wav|pol pot ghét người việt và không muốn người việt tạo ra một khối cộng sản ở đông dương .|1
+audio_datasets/1/125.wav|nhưng thực tế chỉ là cách gọi hòa mỹ của một cuộc đại thanh trừng những thành phần chống đối tư tưởng của mao .|1
+audio_datasets/1/268.wav|đó là người mỹ đã không còn muốn ngô đình diệm tiếp tục ngồi trong dinh tổng thống nữa .|1
+audio_datasets/0/189.wav|và lắng nghe giọng nói .|0
+audio_datasets/0/400.wav|hôm nay mình sẽ đối xử với người khác .|0
+audio_datasets/1/51.wav|nhưng người mỹ đâu quan tâm .|1
+audio_datasets/1/398.wav|ả rập xê út không hề thích điều đó .|1
+audio_datasets/0/406.wav|trên thực tế , quá trình tình cảm mà hai người trải qua trong đời bao gồm nhiều trạng khác nhau .|0
+audio_datasets/1/390.wav|đem quân đánh đuổi những nhà nước bù nhìn thân liên xô ở miền bắc .|1
+audio_datasets/1/391.wav|người mỹ đảm bảo ông ta sẽ được an toàn , nhưng ngô đình diệm không được phép ở lại đồng nam á nữa .|1
+audio_datasets/0/17.wav|ruột non sẽ chuyển sang chế độ làm sạch tự động , để toàn bộ thức ăn thừa đưa cho ruột già xử lý .|0
+audio_datasets/1/358.wav|iraq chưa bao giờ thực sự phục hồi kể từ khi đó .|1
+audio_datasets/0/169.wav|đừng quên ủng hộ mình bằng cách nhấn like , đăng ký , mở nút chuông thông báo để đón xem video mới nhất hàng tuần của mình .|0
+audio_datasets/0/183.wav|có lẽ là bởi vì chúng ta thường xuyên được nhìn thấy những hình ảnh này .|0
+audio_datasets/1/377.wav|và cách mạc tân hợi năm một nghìn chín trăm mười một nổ ra .|1
+audio_datasets/0/335.wav|thế là ông đã đến chùa và xin lời khuyên của vị sư thầy .|0
+audio_datasets/0/352.wav|tất cả đều là ảo tưởng của bạn mà thôi .|0
+audio_datasets/0/134.wav|chính vì vậy tác giả đã làm theo lời khuyên của người cha giàu của mình .|0
+audio_datasets/0/115.wav|thay đổi tí hon có thể tạo ra kết quả khổng lồ , bởi vì duy trì thói quen chính là tạo ra lãi kép cho chính cuộc sống của bạn .|0
+audio_datasets/1/99.wav|người nhật nổi tiếng tàn bạo .|1
+audio_datasets/1/200.wav|trong chiều , những âm mưu lật đổ vô tự đức cũng bắt đầu xuất hiện .|1
+audio_datasets/0/275.wav|điều đó khiến cho tôi cảm thấy nặng nẻ , nhiều gánh nặng .|0
+audio_datasets/0/370.wav|cuối cùng là ở bước số bốn .|0
+audio_datasets/0/61.wav|xây dựng một nơi trú ẩn trong trái tim mình .|0
+audio_datasets/0/408.wav|mỗi người sống trên đời đều có một thân phận khác ngoài chính bản thân của mình .|0
+audio_datasets/0/349.wav|nhưng khi miếng bánh này rơi vào dạ dày của bạn , não sẽ thôi không kiểm soát nữa .|0
+audio_datasets/0/194.wav|stephen vẫn cố gắng tiếp tục thêm một lần nữa .|0
+audio_datasets/0/338.wav|thoát ra khỏi cái vùng an toàn .|0
+audio_datasets/0/76.wav|đều có thể được bù đắp .|0
+audio_datasets/1/447.wav|đạp đốc này đang tập trung ở edinburgh , thủ đô của scotland , vương quốc ảnh . họ muốn điều gì .|1
+audio_datasets/0/22.wav|nếu thân xác không phải là tôi , thì tinh thần thay đổi trong từng khoảnh khắc lại càng ít có khả năng là tôi hơn .|0
+audio_datasets/1/121.wav|nhưng đã bao giờ bạn thấy một con sư tử nào như thế hay chưa .|1
+audio_datasets/0/162.wav|buông bỏ , mới chạm tới được biến bỏ của ước mơ .|0
+audio_datasets/1/274.wav|thế nhưng , đài loan không bị người phương tây nhòm ngó , mà là một đất nước đông nga khác , nhật bản .|1
+audio_datasets/0/20.wav|nhưng trong toàn bộ quá trình tu tập , khái niệm về niềm vui bạn sẽ thấy xuyên suốt .|0
+audio_datasets/1/109.wav|bạn chỉ cần hiểu đơn giản như thế này .|1
+audio_datasets/0/44.wav|có câu chuyện kể rằng một học giả mời munger đi ăn sáng .|0
+audio_datasets/1/100.wav|mao lập lại y hệt những gì stalin nói khi gặp kim ở moscow .|1
+audio_datasets/0/283.wav|nhưng đó là điều buồn cười mà hầu như ai cũng mắc phải .|0
+audio_datasets/0/164.wav|robert wright đã tìm ra cách để chúng ta giành lại quyền kiểm soát từ các mô đun này .|0
+audio_datasets/1/181.wav|họ cũng không muốn xa lời với một cuộc chiến tốn kém như tại mexico , cũng như không muốn những tranh chấp với người anh đang bắt đầu lo ngại về sự banh chướng của người pháp tại biển đông .|1
+audio_datasets/0/151.wav|chúng được tận hưởng cuộc sống an bình , no vui , và chống nghĩ rằng ngày tháng tốt đẹp này sẽ không bao giờ kết thúc .|0
+audio_datasets/0/14.wav|chính là nằm ở sự tự chủ .|0
+audio_datasets/1/114.wav|trong khi đó , nếu muốn giao dịch một cách hợp pháp , họ chỉ được phép mua hai trăm đô la một tháng , theo tỷ giao hồi đoái chính thức .|1
+audio_datasets/0/382.wav|rồi trục xuất ông ra khỏi rome .|0
+audio_datasets/0/25.wav|cuộc sống đâu đâu cũng là lựa chọn , nhưng nói cho cùng , một lựa chọn có đúng hay không thì phải xem thâm tâm bạn có thực sự muốn như thế hay không .|0
+audio_datasets/1/34.wav|và chói buộc cuba lại bằng những trừng phạt .|1
+audio_datasets/1/129.wav|đã chín tháng kể từ khi điều đó xảy ra , và cho đến bây giờ , đây vẫn là cuộc chiến chưa có hồi kết .|1
+audio_datasets/1/25.wav|để giải quyết , nestlé mở rộng quy mô hoạt động tại các quốc gia ít bị ảnh hưởng bởi chiến tranh .|1
+audio_datasets/1/89.wav|tập không hề dễ thỏa hiệp , và càng không thể kiểm soát .|1
+audio_datasets/0/58.wav|trong quá trình săn bắt , con người đã trở nên thông minh , nhanh nhạy hơn , đầu óc tập trung và có sự kiên nhẫn hơn .|0
+audio_datasets/0/424.wav|trước đó người kiểm soát sẽ có từng bước đệm tinh vi mà bạn khó lòng nhận biết .|0
+audio_datasets/0/378.wav|bạn có ngọn núi muốn leo , tôi cũng có những dòng sông muốn băng qua .|0
+audio_datasets/1/142.wav|nước ông thực sự là một mỏ vàng đấy .|1
+audio_datasets/0/5.wav|giống như là trong bài hát always with me của bộ phim điện ảnh hoạt hình vô cùng ý nghĩa đạt giải oscar có viết rằng .|0
+audio_datasets/1/318.wav|ngạc nhiên là con số những người chia sẻ trải nghiệm tương tự không hề nhỏ và nhiều trường hợp khác nhau đã được ghi lại .|1
+audio_datasets/0/63.wav|vì vậy , cách đơn giản là bạn có thể đặt một chiếc ghế đầu nhỏ dưới chân , hơi nghiêng người về phía trước , mô phỏng tư thế như vận động viên trượt tuyết .|0
+audio_datasets/0/269.wav|bắt họ làm theo ý của mình .|0
+audio_datasets/0/225.wav|sự tập trung cho phép chúng ta học cách tham gia , nhưng đó vẫn chưa đủ , mà bạn còn phải học cả cách hiện diện .|0
+audio_datasets/1/250.wav|triều tiên vẫn liên tục cải tiến những vũ khí của mình .|1
+audio_datasets/1/21.wav|và họ đang chấp nhận để đài loan như vậy miễn là đài loan không có đòi độc lập và mỹ không vuốt về quá trớn đài loan .|1
+audio_datasets/0/271.wav|tôi là tất cả của những người tôi đã tiếp xúc , những điều tôi gặp phải , niềm vui tôi đã trải qua , nỗi đau tôi phải nếm trải .|0
+audio_datasets/0/119.wav|như bacon đã nói về học trò của mình .|0
+audio_datasets/1/458.wav|tại mảnh đất này ở châu âu , hơn một trăm năm trước , từng có một quốc gia .|1
+audio_datasets/0/260.wav|ông ngồi trên một chiếc ghế tựa với một quả bóng trên tay .|0
+audio_datasets/1/220.wav|thật khó hình dung , khi từ cho tan chiến tranh , hàn quốc lại có thể trỗi dậy mạnh mẽ như vậy .|1
+audio_datasets/0/395.wav|đối với ông , có một thứ duy nhất không thể nào chạy theo số đông .|0
+audio_datasets/1/280.wav|cái chết của ông đã chấm dứt ba mươi lăm năm cầm quyền của vị lãnh đạo .|1
+audio_datasets/1/269.wav|ông thậm chí có được mời tới mỹ .|1
+audio_datasets/1/65.wav|thế bây giờ , ả rập xêu giống như một người đang cầm rất nhiều tiền sống ở một khu đầy tội phạm vậy .|1
+audio_datasets/0/92.wav|điều này có nghĩa là gì .|0
+audio_datasets/1/371.wav|nhưng tại đây , cầu thủ này có thể kiếm được gấp mười lần so với tại wolverhampton , với mức lương khoảng mười lăm triệu bảng mỗi năm .|1
+audio_datasets/1/12.wav|chính những người bồ đào nha đã đặt cho hòn đảo cái tên mà rất nhiều người phương tây tới nay vẫn quen gọi .|1
+audio_datasets/0/111.wav|cơ thể của anh bây giờ quá đỗi cồng cảnh .|0
+audio_datasets/1/104.wav|hoàn đảo nhỏ bé này sẽ bơ vơ giữa đại dương .|1
+audio_datasets/0/197.wav|howard krupper đã đề xuất cho chúng ta phương pháp ba bê , đó là ngủ , tắm và đi xe buýt .|0
+audio_datasets/1/396.wav|nhưng rồi thì cứu tinh thực sự của họ cũng sớm xuất hiện thôi .|1
+audio_datasets/0/379.wav|để tránh gây ra xung đột khi thi đấu , cả hai đều đeo một chiếc vòng tay cao su .|0
+audio_datasets/1/427.wav|không còn sự quản thúc của liên minh cộng sản nữa .|1
+audio_datasets/0/206.wav|hay là sẽ sợ hãi hơn .|0
+audio_datasets/1/331.wav|nguồn lực sẵn có , các khoản đầu tư vững chắc , quan hệ rộng mở và quyền lực mềm ngày một lên cao .|1
+audio_datasets/1/302.wav|nhiều người đã lo sợ .|1
+audio_datasets/1/319.wav|như steve wernick , nguyễn tử quả .|1
+audio_datasets/1/333.wav|thuyết domino .|1
+audio_datasets/1/425.wav|giờ chúng ta sẽ đi đến chủ đề chính .|1
+audio_datasets/1/326.wav|những người vốn không theo cộng sản , giờ cũng theo cộng sản luôn .|1
+audio_datasets/1/281.wav|người tây ban nha thua và rời khỏi hòn đảo .|1
+audio_datasets/1/199.wav|vấn đề của tunku là ở đây .|1
+audio_datasets/1/14.wav|được quốc xã của hitler xụp đổ .|1
+audio_datasets/0/384.wav|cũng là tác giả của cuốn sách mà hôm nay mình muốn chia sẻ với các bạn .|0
+audio_datasets/0/295.wav|bước số hai . hãy lắng nghe đứa trẻ bên trong bạn .|0
+audio_datasets/1/93.wav|và cho dù có nhận ra , người ta cũng sẽ sớm chấp nhận sự đánh đổi này thôi .|1
+audio_datasets/1/386.wav|những câu chuyện lịch sử đều nói về việc vào cuối thời các chú nguyễn ở đằng trong , quan đại thần trương phúc loan lộng hành khiến nội bộ triều chính bất ổn , thảm nhũng tràn lan .|1
+audio_datasets/0/336.wav|bạn sợ một ngày nào đó mình sẽ chết đi .|0
+audio_datasets/1/431.wav|trên các dãy núi alper và zura , trồng hoa màu và cha nuôi gia súc là ngành công nghiệp quan trọng nhất của thụy sĩ từ thời trung cổ .|1
+audio_datasets/1/249.wav|trịnh thành công chết trước khi công cuộc chiếm đài loan hoàn thành .|1
+audio_datasets/1/155.wav|và người mỹ còn làm cho nó tồi tệ hơn nữa .|1
+audio_datasets/1/426.wav|năm hai nghìn không trăm mười tám , donald trump cho nước mỹ rút khỏi thỏa thuận và những cấm vận lại được đặt lên iran .|1
+audio_datasets/1/225.wav|sau khi liên xô sụp đổ , bình nhưỡng dùng việc sản xuất những vũ khí này để giữ vị thế cho mình .|1
+audio_datasets/1/56.wav|ngày mười bảy tháng bảy năm một nghìn chín trăm sáu mươi mốt , chính phủ của thủ tướng unu thông qua dự thảo sửa đổi hiến pháp với nội dung .|1
+audio_datasets/0/158.wav|một sinh vật chỉ có hai mươi nghìn tế bào thần kinh như này mà có thể so sánh được với bộ não loài người thông minh có tới tám mươi sáu tỷ tế bào thần kinh .|0
+audio_datasets/0/29.wav|sau đó , mỗi ngày liệt kê một danh sách công việc hợp lý có thể thực hiện được .|0
+audio_datasets/0/190.wav|nếu bạn cảm thấy video này có ích hãy cho mình một nút like , để lại cảm nhận của bạn ở phía dưới chia sẻ tới những người cần nó .|0
+audio_datasets/1/287.wav|từ một trong những nước nghèo nhất thế giới , họ trở thành một trong bốn con rồng kinh tế châu hà .|1
+audio_datasets/1/85.wav|trong những quán cà phê , tất cả có thể lắng nghe những ý tưởng chống lại chính quyền ottoman .|1
+audio_datasets/1/127.wav|trước đó , đoàn đã đi chín nghìn kí lô mét từ sài gòn qua campuchia , lào , thái lan , myanmar , vân nam rồi tới thượng hàn .|1
+audio_datasets/1/90.wav|nhưng mọi chuyện vẫn chưa kết thúc .|1
+audio_datasets/0/235.wav|cuối cùng , mình rất mong có thể truyền tải tới bạn một thông điệp rằng .|0
+audio_datasets/1/370.wav|trong những năm kế tiếp , tuy có chậm lại , nhưng tốc độ tăng trưởng vẫn tiếp tục gia tăng đều đạn cho đến năm một nghìn chín trăm chín mươi bảy , với tốc độ trung bình là mười phần trăm mỗi năm .|1
+audio_datasets/1/217.wav|tuy vậy , không phương pháp nào có hiệu quả cả .|1
+audio_datasets/0/140.wav|nếu đối phương mất kiểm soát cảm xúc hoặc bộc lộ mạnh liệt sự tức giận bạn có thể đáp lại .|0
+audio_datasets/0/156.wav|sau đó tưởng tượng ra vai trò xã hội cụ thể và khoác lên mình tầm áo tràng thân phận tương tự .|0
+audio_datasets/1/242.wav|liên bang nam tư từng một thời hung mạnh với sáu nước cộng hòa .|1
+audio_datasets/0/287.wav|và đây cũng chính là biểu tượng tinh thần .|0
+audio_datasets/1/232.wav|haiti từ nghèo nay thành cực nghèo .|1
+audio_datasets/0/294.wav|riêng có một con gà cứ quanh quẩn trong chuồng mà kêu trời sắp dập rồi , trời sắp dập rồi .|0
+audio_datasets/1/177.wav|có thể bẻ gãy được .|1
+audio_datasets/1/102.wav|tuy nhiên , lệnh cấm đã bị gỡ bỏ ngay khi nhà vua qua đời .|1
+audio_datasets/0/366.wav|đối với an , những thứ không hoàn hảo trong cuộc sống thường nhật có thể trở nên hoàn mỹ thông qua trí tưởng tượng .|0
+audio_datasets/0/357.wav|còn người ta bây giờ không phải là sống thiếu vận động , mà là thiếu xúc động .|0
+audio_datasets/0/2.wav|nếu anh không làm như thế này , thì em sẽ như thế này như thế kia .|0
+audio_datasets/0/64.wav|nếu bạn đã từng xem bộ phim tài liệu world cup cho người vô gia cư , thì bạn sẽ hiểu hơn về tác động của bóng đá đến với con người như thế nào .|0
+audio_datasets/0/114.wav|vì thế , họ tiếp tục chơi cho đến khi đủ tám phút .|0
+audio_datasets/1/264.wav|chiến tranh lạnh với hai cực , cực xã hội chủ nghĩa của liên xô và cực bài cộng sản của mỹ và tây âu .|1
+audio_datasets/0/246.wav|con người sống khổ sở , kéo theo quyền lợi của động vật cũng vì thế mà giảm sút .|0
+audio_datasets/1/353.wav|nhà nước này bao gồm sáu nhà nước cộng hòa .|1
+audio_datasets/1/184.wav|người palestine xem kế hoạch của liên hợp quốc là hành động cướp đất của chủ nghĩa thực dân .|1
+audio_datasets/0/34.wav|bất cứ ai cũng có thể trở nên xấu xa , chỉ cần trải qua cảm giác ganh tị .|0
+audio_datasets/1/402.wav|tuy nhiên , lệnh cấm chỉ có hiệu lực trong mười một ngày trước lan sóng phản đối của quân chúng .|1
+audio_datasets/1/72.wav|dù vậy , các nghệ sĩ dễ dàng tiếp cận với khán giả của mình hơn trước nhiều .|1
+audio_datasets/1/165.wav|trong khi thụy sĩ chào đón những người nhập cư , thì trong nước , các thành bằng không thực sự có sự kết nối quá chặt chẽ .|1
+audio_datasets/0/267.wav|để điều trị mủ đen , mary đã phải nhập viện nhiều lần trong vòng một năm , thực hiện các ca phẫu thuật .|0
+audio_datasets/1/131.wav|những mọi thứ đã bắt đầu như thế nào .|1
+audio_datasets/1/207.wav|lúc này , hàn quốc bắt đầu khởi động công cuộc công nghiệp hóa .|1
+audio_datasets/0/138.wav|để dễ liên tưởng , bạn có thể nghĩ tới chiếc máy tính .|0
+audio_datasets/0/35.wav|để ném tên chính xác hơn , chúng ta đã tiến hóa đôi cánh tay của mình rắn chắc , linh hoạt hơn .|0
+audio_datasets/0/136.wav|điều thứ hai , đó là cậu gặp được một người biết nói tây ban nha .|0
+audio_datasets/0/314.wav|nói một cách đơn giản , vô thường là đặc tính phổ quán của vạn vật .|0
+audio_datasets/1/118.wav|tư tưởng tập cận bình về chủ nghĩa xã hội đặc sắc trung quốc trong thời đại mới , đã lần đầu tiên được đưa vào trong điều lệ đả .|1
+audio_datasets/1/26.wav|họ biết những quán cà phê là mối đe dọa cho ngài vàng của mình và tìm cách cầm đoán .|1
+audio_datasets/1/126.wav|ông ta đã thành công dẹp bỏ những ảnh hưởng cuối cùng của quân pháp ở miền nam .|1
+audio_datasets/1/205.wav|đương nhiên rồi , họ sẽ phản đối chính quyền và thậm chí gia nhập việt minh , những người có chính sách công bằng với người nông dân hơn .|1
+audio_datasets/1/328.wav|việc người anh có nhiều đại diện hơn trong chính phủ là rõ ràng vì dân số anh lớn hơn gấp mười lần .|1
+audio_datasets/1/380.wav|chính quyền hồi giáo mới của iran , còi mỹ , israel là những kẻ phá hoại thế giới hồi giáo và cần phải bị loại bỏ .|1
+audio_datasets/1/362.wav|liên quân pháp và tây ban nha chỉ còn một phần nhỏ lực lượng ở lại , chủ yếu là phòng thủ cho các cuộc tấn công của quân đại nam do tướng nguyễn tri phương chỉ huy .|1
+audio_datasets/1/134.wav|sau khi sắp đặt đầu vào đấy hai chính quyền của mình , tới năm một nghìn chín trăm bốn mươi chín , cả liên xô và mỹ đều rút khỏi bán đảo triều tiên .|1
+audio_datasets/1/60.wav|và đến năm một nghìn bảy trăm bảy mươi ba chỉ còn tám thuyền .|1
+audio_datasets/1/286.wav|với tham vọng đưa chủ nghĩa cộng sản là ý thức hệ duy nhất của thế giới .|1
+audio_datasets/1/421.wav|đây là chủ nhân của hòn đảo này hơn tám nghìn năm trước .|1
+audio_datasets/1/81.wav|serbia và montenegro .|1
+audio_datasets/1/11.wav|đảng cộng sản và các mục tiêu chính trị của nó ngày càng không được ưa chuộng ở các nước đồng âu , và dẫn tới sự sụp đổ của nhà nước cộng sản chủ nghĩa tại các nước này .|1
+audio_datasets/1/141.wav|chúng ta cần một thế lực khác đủ mạnh , đủ giàu và đủ thân thiện với cả hai để có thể làm được điều này .|1
+audio_datasets/0/327.wav|là điều gì đã tạo nên tính cách của chúng ta .|0
+audio_datasets/1/434.wav|nhưng người sốc nhất , chính là tổng thống kennedy .|1
+audio_datasets/1/2.wav|một con đường dành cho những người nông dân nghèo khổ có thể vùng lên khỏi chủ nghĩa thực dân .|1
+audio_datasets/0/428.wav|ong đất khi kiếm được mùi ăn thường đặt trước cửa tổ .|0
+audio_datasets/1/157.wav|những kẻ khiến người mỹ lại phải đau đầu để đánh bại sau này .|1
+audio_datasets/1/98.wav|tượng trưng cho người dân mỹ .|1
+audio_datasets/0/313.wav|về điểm này , inamori kazu đã kể một câu chuyện như sau .|0
+audio_datasets/1/307.wav|trên thực tế , nhiều quốc gia cũng có quy định về trị số này .|1
+audio_datasets/1/429.wav|mỹ liên tục đều đều mỗi năm đầu tư vào quốc phòng hàng trăm tỷ đô la , rất đầu thế giới , và bằng cả nhiều quốc gia đứng sau cộng lại .|1
+audio_datasets/1/183.wav|việc này đánh dấu sự trỗi sợi của putin .|1
+audio_datasets/0/355.wav|trong cuộc sống , làm thì rất khó nhưng mở miệng để tìm ra khuyết điểm của người khác thì lại rất dễ .|0
+audio_datasets/0/45.wav|cuộc sống của chúng ta chẳng phải cũng như vậy sao .|0
+audio_datasets/0/48.wav|tức là bạn không thể không tiếp xúc với các chất hay các hoạt động có khả năng gây ra nghiện mềm .|0
+audio_datasets/1/66.wav|nếu không đủ ấn tượng , người nghe sẽ chuyển nhạc .|1
+audio_datasets/0/277.wav|cha của trin vì thế mà tức chết .|0
+audio_datasets/0/263.wav|dù thế nào đi chăng nữa , con người vẫn sẽ luôn phải phấn đấu .|0
+audio_datasets/0/310.wav|có người nói rằng họ đã thích nghi với áp lực của cuộc sống , họ không cảm nhận được gì nữa .|0
+audio_datasets/1/316.wav|năm một nghìn chín trăm bảy mươi mốt , papadoc qua đời .|1
+audio_datasets/1/52.wav|sau đó , thiếc và cao su sẽ được vận chuyển sang singapore , rồi từ đây phân phối tới châu âu và mỹ .|1
+audio_datasets/1/203.wav|nhiều thương nhân giàu có trong đó đã bị bắt .|1
+audio_datasets/1/308.wav|bạn có thể từ chối chúng .|1
+audio_datasets/0/86.wav|vì vậy , người con không được bộc lộ cảm xúc như những đứa trẻ bình thường .|0
+audio_datasets/1/61.wav|và lại chói cuba bằng những lệnh trừng phạt mới .|1
+audio_datasets/0/67.wav|có tiến lên bạn mới có thể cho mình cơ hội để thể hiện bản thân và suy nghĩ của chính mình .|0
+audio_datasets/1/438.wav|một nhóm các cư dân thuộc địa massachusetts đã cải trang thành người giao đỏ mohawk , đồn nhập lên ba chiếc tàu anh và đổ ba trăm bốn mươi hai kiện chè xuống biển .|1
+audio_datasets/0/342.wav|ngược lại , hai con người có tâm hồn của những vị thần . như quasimodo , anh ấy có sự chân thành .|0
+audio_datasets/1/259.wav|mọi việc bắt đầu thay đổi rất nhanh .|1
+audio_datasets/0/161.wav|tuy nhiên , lòng biết ơn đầy đủ không phải như vậy .|0
+audio_datasets/0/78.wav|để mà khi nỗi đau chưa đến , bạn sẽ không lo lắng , không sợ hãi .|0
+audio_datasets/0/247.wav|thì đó cũng được gọi là mệnh lệnh .|0
+audio_datasets/0/252.wav|từ đó dạy bạn cách buông bỏ những thứ cần phải đoạn , xả , ly .|0
+audio_datasets/0/31.wav|bởi con người là một động vật rất kỳ lạ .|0
+audio_datasets/0/131.wav|nhưng sự theo đuổi này không phải là chân thành .|0
+audio_datasets/0/227.wav|nhìn thì họ có vẻ là siêng năng , là chăm chỉ .|0
+audio_datasets/0/110.wav|có một câu chuyện về vị trà sư .|0
+audio_datasets/1/347.wav|trung quốc đã nhận lấy một phần trách nhiệm giúp đỡ một thành viên của khối .|1
+audio_datasets/1/69.wav|lật đổ reza shah .|1
+audio_datasets/1/422.wav|vậy để mỗi dân tộc lại tự tuyên bố thành lập đất nước của mình trong lòng bosnia .|1
+audio_datasets/1/455.wav|có phải trí nhớ của con người đã bị sửa đổi .|1
+audio_datasets/1/337.wav|hơn là một quốc gia độc lập .|1
+audio_datasets/1/387.wav|chẳng hạn như năm hai nghìn không trăm mười sáu , cựu tổng thống cristina fernández de kirchner bị cáo bức tham mộ .|1
+audio_datasets/0/124.wav|vào những dịp đặc biệt thì sẽ có thêm một chút phô mai .|0
+audio_datasets/0/27.wav|ở video trước , mình đã nói khá kĩ về cách luyện tập tránh niệm , bạn có thể xem lại video này ở đây .|0
+audio_datasets/0/121.wav|lại rơi vào vực thẳm như thế này .|0
+audio_datasets/1/305.wav|đó là đài loan lo sợ bị nuốt trừng bởi đại lục .|1
+audio_datasets/0/410.wav|nhưng mà , nói dối cuối cùng cũng chỉ là nói dối .|0
+audio_datasets/1/393.wav|và cú đá cuối cùng đạp ngô đình diệm vào quan tài là chính sách bài tôn giáo .|1
+audio_datasets/0/391.wav|bạn sẽ thấy vào thời điểm này , paula vẫn rất tự tin về quan điểm của mình .|0
+audio_datasets/0/290.wav|tôi chỉ gặp một người , có lúc đang ngủ trưa , trời mưa không ra khỏi cửa .|0
+audio_datasets/1/452.wav|nhưng điều đó đã không bao giờ xảy ra .|1
+audio_datasets/1/228.wav|đừng lo , shell sẽ bán cho họ .|1
+audio_datasets/1/282.wav|từ trung quốc , mao chẳng đâu nhìn thấy hết những điều này . ông bắt đầu lo sợ .|1
+audio_datasets/1/174.wav|mà bạn cũng không thể đến đánh ả rập xê út được .|1
+audio_datasets/0/56.wav|chúng ta chỉ thích cảm giác vui vẻ , thoải mái .|0
+audio_datasets/1/341.wav|từ đây , các nhà khoa học máy tính bắt đầu tìm cách đào tạo máy tính , để bắt trước một số hình thức lý luận của con người .|1
+audio_datasets/1/457.wav|chúng tôi sẽ không giải thích dài dòng về petrodollar ở video này đâu .|1
+audio_datasets/0/146.wav|nhưng điều kiện then chốt là bạn cần phải có khả năng nhìn thấu và khả năng sáng tạo .|0
+audio_datasets/1/288.wav|một chuyến đi tiêu tốn cả một gia tài .|1
+audio_datasets/1/161.wav|ngô đình diệm đã tự tìm cách thâu tóm lấy quyền lực vào tay .|1
+audio_datasets/1/193.wav|thụy sĩ thực tế vẫn tham gia vào chiến tranh , nhưng không phải là để đánh nhau .|1
+audio_datasets/1/361.wav|họ đổ ra càng lúc càng đông .|1
+audio_datasets/0/350.wav|chính vì vậy , đừng bao giờ đóng khung cuộc đời mình quá sớm .|0
+audio_datasets/0/212.wav|thì hôm nay , mình sẽ đưa thêm cho bạn một gợi ý khác .|0
+audio_datasets/1/329.wav|cũng như nestlé , đồng hồ thụy sĩ được cung cấp cho các bệnh tạm chiến .|1
+audio_datasets/1/465.wav|vậy là , châu âu có khí đốt giá rẻ để sử dụng , còn nga thì có tiền từ châu âu .|1
+audio_datasets/0/367.wav|cả đời này sẽ chỉ tiêu xài với một ít đồng lương .|0
+audio_datasets/1/239.wav|tuy vậy , giá nhập khí đốt tăng , nghĩa là giá điện và năng lượng cũng sẽ tăng theo . cần phải biết rằng bảy mươi phần trăm khí đốt ở châu âu được sử dụng vào sở yếm nhà dân .|1
+audio_datasets/1/178.wav|bất ngờ là ở chỗ , trong lúc người pháp đang gặp khó khăn , thì tháng năm năm một nghìn tám trăm sáu mươi hai .|1
+audio_datasets/1/399.wav|mao sẽ làm như vậy .|1
+audio_datasets/1/435.wav|con số này đã nhích lên hai mươi tám phần trăm .|1
+audio_datasets/0/356.wav|và có những biến lượng trong đó .|0
+audio_datasets/1/50.wav|những hành động này khiến người dân tức tối , biểu tình , bạo loạn xảy ra khắp mọi nơi .|1
+audio_datasets/1/149.wav|và thậm chí còn thú nhận việc ăn tiền từ chính phủ để nói dối về vụ việc .|1
+audio_datasets/0/57.wav|ở đây có một kết luận vô cùng bất ngờ .|0
+audio_datasets/0/147.wav|cho dù bạn có cố gắng tránh né , phủ nhận , phòng thủ thì chúng vẫn cứ hết lần này đến lần khác nhấn chìm bạn vào đau khổ .|0
+audio_datasets/0/346.wav|sau vài lần trò chuyện , cô bé đã ngưỡng mộ renny đến mức từ bỏ ý định phá hoại trước kia .|0
+audio_datasets/1/279.wav|và một trong những người nổi tiếng nhất là người đàn ông này .|1
+audio_datasets/0/288.wav|ông tận hưởng sự bình yên không bị xáo trộn , sự lạnh lùng và xáo động trong lòng dần tiêu tan .|0
+audio_datasets/1/212.wav|nhưng một đằng trong trong những ngày đầu thua kém về mọi mặt so với đằng ngoài .|1
+audio_datasets/1/411.wav|các nhóm dân tộc bắt đầu tìm cách vận động cho độc lập .|1
+audio_datasets/1/385.wav|iraq đánh bom các tàu chở dầu của iran , chặn đường xuất khẩu dầu của iran .|1
+audio_datasets/1/357.wav|thủ lĩnh quân nổi dậy bị giết .|1
+audio_datasets/0/325.wav|và sắp kết hôn với người đó .|0
+audio_datasets/0/321.wav|đây chính là thực tiễn của cuộc đời .|0
+audio_datasets/0/347.wav|cậu bé trộm bóng đã im lặng , không phơi bày điểm yếu của đối phương là bởi vì cậu có một trái tim nhân hậu .|0
+audio_datasets/0/103.wav|về điều này , tác giả nói với bạn rằng nếu để cho những tâm trạng tiêu cực ẩn nấp trong tâm trí , chúng ta sẽ mãi mãi mất đi tương lai .|0
+audio_datasets/0/211.wav|và cô đã phải mất tới bốn năm nữa mới có thể lấy được tấm bằng tốt nghiệp đại học .|0
+audio_datasets/1/210.wav|các lực lượng kháng chiến sử dụng lối đánh du kích một cách hiệu quả với trung tâm nằm tại vùng ở gò công .|1
+audio_datasets/1/350.wav|tại sao lại như vậy . và liệu điều này có thay đổi trong tương lai .|1
+audio_datasets/0/289.wav|cuốn sách ngày hôm nay là một tập hợp các lời khuyên , bài phát biểu trước công chúng và các cuộc phỏng vấn truyền thông của mugger trong hai mươi năm qua .|0
+audio_datasets/1/33.wav|đã từ rất lâu , nam từ đã phụ thuộc quá nhiều vào sự hỗ trợ kinh tế tất cả hai phe trong chiến tranh lạnh .|1
+audio_datasets/1/107.wav|máy bay mỹ oanh đặt nhiều nơi trên hòn đảo .|1
+audio_datasets/1/367.wav|hay để dễ hình dung hơn , chúng ta sẽ đổi thành tổng diện tích đất xây dựng bằng fsi nhân với diện tích chiếm đất của công trình .|1
+audio_datasets/1/456.wav|và vợ của nelson còn đứng lên phát biểu trong lễ tàng .|1
+audio_datasets/0/239.wav|những hành động như là bán nhà để start up , thôi việc để bắt đầu lập nghiệp là cực kỳ rủi ro .|0
+audio_datasets/0/109.wav|nếu như trong hai mươi tư giờ .|0
+audio_datasets/1/150.wav|kể từ thời điểm đó , trí tuệ nhân tạo không ngừng phát triển và dần định hình cuộc sống hiện đại của con người .|1
+audio_datasets/0/107.wav|nhưng mình tin rằng , khi hiểu được nó , bạn sẽ có cơ hội gặp gỡ bản thân chính mình .|0
+audio_datasets/0/285.wav|nếu không có sẵn quan niệm này bạn sẽ không bao giờ nhìn thấy đèn gas nhấp nhảy .|0
+audio_datasets/0/62.wav|nhưng một khi tỷ lệ mà phụ nữ giữ vị trí quản lý cấp cao đạt đến năm mươi phần trăm thì mọi người sẽ tự khác quen với điều này .|0
+audio_datasets/0/303.wav|đừng nguyên dù bóng tối .|0
+audio_datasets/1/368.wav|người dân trung quốc tôn mao lên như một vị á thần , một vị thánh sống , một kiểu tôn thờ cá nhân chưa từng có ở lịch sử hiện đại .|1
+audio_datasets/1/247.wav|nhưng họ gặp một vấn đề lớn .|1
+audio_datasets/1/185.wav|còn churchill vốn là một người theo chủ nghĩa bài cộng sản từ rất lâu .|1
+audio_datasets/1/330.wav|ở một nơi nào khác .|1
+audio_datasets/1/253.wav|không dùng sông , không dùng núi , không dùng văn hóa , không dùng dân tộc .|1
+audio_datasets/0/420.wav|chỉ có những người từng trải mới có thể hiểu được điều này .|0
+audio_datasets/0/281.wav|bởi vì không phải ai cũng có cơ hội trực tiếp gặp gỡ , trò chuyện sâu sắc với một người hơn trăm tuổi .|0
+audio_datasets/1/20.wav|câu trả lời là tăng thuế .|1
+audio_datasets/0/122.wav|nhưng vấn đề là , đề nghị quá đáng chỉ là bước cuối cùng của quá trình thao túng .|0
+audio_datasets/1/227.wav|họ chủ yếu muốn trở thành một thực tế thống nhất để nhằm tự vệ trước các thế lực bên ngoài mà thôi .|1
+audio_datasets/1/436.wav|một số vì muốn lân chiếm đất .|1
+audio_datasets/0/99.wav|cách tốt nhất khi mà rèn luyện một khả năng là bạn hãy tìm cho mình một người thầy , một người huấn luyện viên .|0
+audio_datasets/0/81.wav|phương pháp thứ nhất là liên tục gieo những hạt giống an vui , hạnh phúc .|0
+audio_datasets/0/392.wav|và mở rộng ra cái danh giới của cuộc đời bạn .|0
+audio_datasets/1/216.wav|chiến dịch không dừng lại ở một số đối thủ của ông tập .|1
+audio_datasets/0/10.wav|mặc dù có thể trong lòng chúng ta vẫn cảm thấy có chút tồi tệ , nhưng mà chúng ta vẫn nói sự việc đã qua rồi , không sao cả .|0
+audio_datasets/0/412.wav|bạn cũng chỉ nên lấy nó làm tham khảo , bởi vì đó là phương pháp phù hợp với tác giả , phù hợp với bối cảnh kinh tế của tác giả .|0
+audio_datasets/0/38.wav|ở phần cuối của cuốn tiểu thuyết , vào một buổi sáng rất bình thường .|0
+audio_datasets/0/375.wav|bạn cần nhớ rằng thực ra trong con voi luôn có một sức mạnh và động lực to lớn .|0
+audio_datasets/1/171.wav|trong thời gian đầu , perestroika nghĩa là một quá trình cải cách nhằm cải thiện kỷ luật nơi làm việc .|1
+audio_datasets/1/169.wav|sau khi chiếm được thành phố này , quân đội nhật bản đã tiến hành vụ thảm sát nam kinh nổi tiếng .|1
+audio_datasets/0/216.wav|trong chủ đề ngày hôm nay , mình rất mong muốn bạn có thể can đảm hãy viết ra câu chuyện tình cảm của chính mình ở phía dưới phần bình luận .|0
+audio_datasets/0/125.wav|nhưng không có nguy hiểm nào hay tình trạng khó khăn nào có thể đánh gục ông .|0
+audio_datasets/0/320.wav|cuộc sống muốn hạnh phúc , cần phải có niềm vui .|0
+audio_datasets/1/446.wav|hàn quốc trước tiên cần phải phát triển kinh tế vững mạnh rồi sau đó mới có thể có được dân chủ .|1
+audio_datasets/1/246.wav|thời đó , pagan là vương quốc đa dạng sắc độc và tôn giáo , trong đó người miến và phật giáo chiếm đa số .|1
+audio_datasets/1/354.wav|tổng thống mới là donald trump .|1
+audio_datasets/1/234.wav|giữ cho nhà nước tư phong này tồn tại , nghĩa là croatia sẽ không thể cứ thế mà rời khỏi nam tư .|1
+audio_datasets/1/351.wav|người chechen được dịp trả thù những gì người nga gây ra cho họ hàng bao thế kỷ qua .|1
+audio_datasets/1/365.wav|cuộc chiến ở chechnya không chỉ đem vùng đất đó quay lại với nga .|1
+audio_datasets/1/340.wav|và đây lại là lý do lớn nhất ngăn những cao ốc mọc lên ở đất nước này .|1
+audio_datasets/0/11.wav|ví dụ khi bạn đứng dậy và chuẩn bị dọn dẹp nhà cửa , thì đột nhiên bạn nhận được một tin nhắn từ người bạn nào đó .|0
+audio_datasets/1/16.wav|gần như toàn bộ đường sắt của trung quốc được kiểm soát bởi tập đoàn đường sắt trung quốc thuộc sở hữu của nhà nước .|1
+audio_datasets/0/0.wav|kiểm soát cảm xúc thực chất là một quá trình đánh giá lại bản thân , để tìm thấy tự do , thoát khỏi sự cuốn hút của chính bản ngã .|0
+audio_datasets/0/186.wav|còn những đứa con sống dưới cái bóng tiêu cực đó là những đứa trẻ bị nhiễm độc .|0
+audio_datasets/0/237.wav|hoàn cảnh khác nhau , nhận thức về sự thật đương nhiên sẽ khác .|0
+audio_datasets/0/98.wav|nếu động lực đến từ những thứ này , bạn sẽ ngày càng bị kiểm soát và mất dần sự tự chủ của chính mình .|0
+audio_datasets/0/364.wav|những niềm vui mà gen mang lại chỉ tồn tại trong một thời gian ngắn , nên con người chúng ta không bao giờ cảm thấy hài lòng .|0
+audio_datasets/0/372.wav|và phải tìm mọi cách để có được .|0
+audio_datasets/1/124.wav|triều đình khi đó phải huy động hàng vạn quân đánh trong hai năm trời mới hạ được thành .|1
+audio_datasets/1/418.wav|trước đây , thông qua việc theo dõi mã định danh idfa trên các ứng dụng trong ios .|1
+audio_datasets/1/10.wav|theo vào đó , liên xô giúp đỡ triều tiên xây dựng các nhà máy hạt nhân cho mục đích dân sự .|1
+audio_datasets/1/180.wav|qua đó nước này bị cấm xây dựng quân đội thường trực hoặc tiến hành chiến tranh với bất cứ mục đích gì .|1
+audio_datasets/0/218.wav|tuy nhiên , đọc cuốn sách này xong , bạn sẽ hiểu ra rằng bất kỳ người phụ nữ nào cũng phải đối mặt với những khó khăn ở môi trường làm việc mà đàn ông không thể hiểu được .|0
+audio_datasets/0/365.wav|ngược lại , vấn đề mà thái tử đặt ra mới là điều mà chúng ta thực sự nên phải liên tục suy ngẫm .|0
+audio_datasets/1/384.wav|vấn đề nằm ở chỗ .|1
+audio_datasets/1/258.wav|ngoài ra tất cả đều đã thất bại .|1
+audio_datasets/0/42.wav|trong một thí nghiệm về tư tưởng nổi tiếng , những con gà tây ngày ngày được người nông dân chăm ăn chú đáo .|0
+audio_datasets/1/248.wav|các thanh tra đến , nhưng họ chẳng tìm thấy gì cả .|1
+audio_datasets/0/82.wav|một doanh nhân nổi tiếng có nói rằng là trong thời đại đầy dẫy những bất chắc , bản thân sự chắc chắn lại chính là rủi ro lớn nhất .|0
+audio_datasets/0/411.wav|ông ấy nói rằng , hãy quý trọng bệnh tật và biết ơn cơ hội nhìn lại nội tâm mà bệnh tật mang lại cho chúng ta .|0
+audio_datasets/0/50.wav|càng thiếu thốn thì càng am muốn , thiếu thốn tình cảm thì chúng ta muốn được yêu .|0
+audio_datasets/1/238.wav|người litva đã sống dọc theo sông nêmen và biển baltic trong khoảng ba nghìn năm và trong thời trung cổ .|1
+audio_datasets/1/211.wav|chiến tranh lạnh , một trong những cuộc chiến quan trọng nhất của thế kỷ hai mươi .|1
+audio_datasets/1/262.wav|vật tư tưởng này đến giờ vẫn còn với người mỹ .|1
+audio_datasets/0/319.wav|dựa trên nguyên tắc thiết kế loài trong thế giới động vật , phản ứng của động vật với những điều tồi tệ , sẽ mạnh hơn so với những điều tốt .|0
+audio_datasets/0/389.wav|bạn có đang muốn thay đổi bản thân .|0
+audio_datasets/1/70.wav|bạn sẽ tự hỏi , làm thế nào mà trung quốc và việt nam có thể tạm gác những mâu thuẫn đó lại .|1
+audio_datasets/0/427.wav|mỗi ngày chạy bộ , tập thể dục đều đặn , nhưng tâm hồn lại trở nên ngày càng cứng nhắc .|0
+audio_datasets/1/459.wav|tuy vậy , yêu cầu này đã bị từ chối .|1
+audio_datasets/0/84.wav|sau khi xác định xong , não của bạn sẽ thu thập thông tin thị giác , thính giác và môi trường xung quanh .|0
+audio_datasets/1/417.wav|khi ông chết , mọi việc bắt đầu rời tự do .|1
+audio_datasets/1/445.wav|đại bắc , vốn được phát minh từ trước đó hàng trăm năm , nhưng đây là thứ đại bắc nằm ngoài trí tưởng tượng .|1
+audio_datasets/0/268.wav|cảm ơn bạn đã lắng nghe .|0
+audio_datasets/0/286.wav|trong quá trình trò chuyện , một trong những lý do khiến xảy ra mâu thuẫn đó là vì cả hai có định nghĩa và tiêu chuẩn khác nhau về cùng một vấn đề .|0
+audio_datasets/1/41.wav|cuối cùng , năm hai nghìn không trăm mười bảy , vụ việc được đem ra ánh sáng .|1
+audio_datasets/0/77.wav|chỉ cần chúng ta tỉnh dậy bình minh sẽ lại đến .|0
+audio_datasets/0/251.wav|hạnh phúc không quan trọng tiền bạc và tuổi tác .|0
+audio_datasets/1/76.wav|tất nhiên , cả hai ý kiến ấy đều đúng .|1
+audio_datasets/0/215.wav|thực chất cả họ và con của mình có thể đạt được ít nhất hai điểm tương đồng về suy nghĩ .|0
+audio_datasets/0/6.wav|thì có thể sẽ ấm ức .|0
+audio_datasets/0/224.wav|thế nên thầy thích nhất hạnh khuyên chúng ta .|0
+audio_datasets/0/100.wav|điều gì đang khống chế hoặc thúc đẩy suy nghĩ , hành động của chúng ta .|0
+audio_datasets/1/27.wav|điều này có thể gây ra tình trạng khác biệt giữa trí nhớ của nhiều người về cùng một sự kiện .|1
+audio_datasets/1/275.wav|người mỹ lập tức phản ứng .|1
+audio_datasets/0/301.wav|nếu không biết rõ bản thân mình trước khi hành động , bạn sẽ chỉ luôn làm nếu vời .|0
+audio_datasets/0/149.wav|chẳng phải là đã chia tay rồi sao .|0
+audio_datasets/1/315.wav|người ủng hộ tiêu biểu nhất cho phong trào này là thủ tướng iran mohammad mosaddegh .|1
+audio_datasets/0/418.wav|hoặc ngược lại , hãy kiểm tra xem có những suy nghĩ rằng bản thân mình yêu việt hay không .|0
+audio_datasets/0/221.wav|họ được chia thành hai nhóm để chơi ghép hình .|0
+audio_datasets/1/403.wav|vậy nên họ chuyển hạng thành thù .|1
+audio_datasets/1/143.wav|nhưng nếu một cuộc chiến tranh toàn diện xảy ra , mọi việc còn có thể tồi tệ hơn thế rất nhiều .|1
+audio_datasets/1/55.wav|mỹ liên cho thành lập một chính quyền lâm thời mới .|1
+audio_datasets/0/153.wav|niềm vui sẽ không tự đến , nó không được kiểm soát , không thể dự đoán .|0
+audio_datasets/1/103.wav|ngày nay , những hình ảnh như thế này đã quá quen thuộc .|1
+audio_datasets/1/135.wav|chỉ để lại nỗi lo việt minh sang một bên .|1
+audio_datasets/0/328.wav|không phải là vì ngoại tình , mà đó là vì hội họa .|0
+audio_datasets/1/404.wav|bạn muốn phục hồi lại sau khi quá mệt mỏi vì chiến tranh , và bạn bắt đầu tìm kiếm những mối quan hệ quốc tế để hợp tác cùng phát triển .|1
+audio_datasets/0/276.wav|và cuộc cãi vã này nó chỉ có hai mươi phần trăm là liên quan những gì đang xảy ra bây giờ .|0
+audio_datasets/0/32.wav|cùng với nỗi cô đơn sâu thẳm .|0
+audio_datasets/0/273.wav|nó chủ yếu thể hiện ở ba điều sau đây .|0
+audio_datasets/1/296.wav|ông ta đem quân đội nam tư đến slovenia để ngăn nước này tách khỏi nam tư .|1
+audio_datasets/1/322.wav|trịnh kiểm đã cho em rể là nguyễn hoàng đi vào cai quản vùng đất thuận hóa , rồi sau đó là quảng nam .|1
+audio_datasets/1/224.wav|trở thành một đế quốc .|1
+audio_datasets/1/91.wav|bạn có thể thấy tiêu đề của video này thật hiển nhiên .|1
+audio_datasets/0/187.wav|thực phẩm chứa nhiều chất này nhất , đó là táo và ớt xanh .|0
+audio_datasets/1/117.wav|chúng ta sẽ trở về quá khứ , để tới thời điểm quan trọng nhất đã tạo nên tiền đề cho singapore ngày này .|1
+audio_datasets/0/315.wav|nhà sư gật đầu , không nói gì , đưa anh ta ra một chỗ không người và ra lệnh đốt một đống lửa lên .|0
+audio_datasets/1/196.wav|tệ hơn , với quyền lực của mình , cùng hai gia đình hoàng gia chống lưng .|1
+audio_datasets/1/335.wav|cơ sở hạ tầng cũng đóng góp rất lớn vào phòng thủ của phần lan .|1
+audio_datasets/1/420.wav|nhưng khi mã anh kiểu , một người có quan hệ hòa hoãn với trung quốc , đắc cực tổng thống năm hai nghìn không trăm linh tám , mối quan hệ hai bờ trở nên thân thiết chưa được thấy .|1
+audio_datasets/1/119.wav|vài năm sau , lý do cho cuộc xâm lực iraq nhanh chóng chuyển thành trận chiến vì sự tự do và dân chủ của người dân iraq .|1
+audio_datasets/1/59.wav|nhưng những điều đó không ngăn cản được người sép tiếp tục chiến tranh .|1
+audio_datasets/1/464.wav|mười năm sau , mao lại một lần nữa xuống dòng sông trường giang . những lần này không giống những lần trước .|1
+audio_datasets/1/310.wav|sau khi hoàn tất việc chiếm đóng nam kỳ , pháp đứng trước nhu cầu cấp thiết trong việc mở rộng ảnh hưởng đến miền nam trung hoa , một thị trường thương mại giàu tiềm năng .|1
+audio_datasets/0/296.wav|những khó khăn đó có thể là đến từ yếu tố khách quan , đến từ người khác , đến từ chính yêu cầu của công việc .|0
+audio_datasets/0/401.wav|việc của bạn là phải tìm ra .|0
+audio_datasets/0/373.wav|có nhiều người đàn ông gia trưởng nghĩ rằng việc rửa bát , sặt rũ , quét dọn là việc lặt vặt không phải là của cánh đàn ông .|0
+audio_datasets/0/178.wav|đó mới chính là luật hấp dẫn .|0
+audio_datasets/1/160.wav|con trai của nhà đồng tài tưởng giới thạch là tưởng kinh quốc cho phép thành lập một đảng mới đối đầu với quốc dân đảng là đảng dân chủ tiến bộ .|1
+audio_datasets/0/43.wav|thế rồi một ngày nọ , cha của anh đột ngột qua đời , nguồn tài chính bấy giờ bị cắt đứt .|0
+audio_datasets/1/64.wav|huế và đà nẵng , lật đổ triều đình nhà nguyễn , đồng thời lập một người giả làm con chó nhà lê lên làm vua ở hà nội .|1
+audio_datasets/0/343.wav|mà người thầy vĩ đại đáng kính đang dùng những câu chữ rất mộc mạc .|0
+audio_datasets/1/231.wav|vì lãnh tụ già sợ hãi nhìn những di sản của mình đang dần biến mất ngay trong mắt .|1
+audio_datasets/1/83.wav|sự phát triển mạnh mẽ của ngoại thương đồng nghĩa với việc tiền tệ là yếu tố đặc biệt quan trọng đối với sự tồn tại của đang trong .|1
+audio_datasets/1/43.wav|nó đồng nghĩa với sự tỉ mỉ , khéo léo , chất lượng và độ biển cao mà đồng hồ là một trong những đại diện tiêu biểu .|1
+audio_datasets/1/245.wav|những việc muhammad làm , được phương tây và đồng minh ủng hộ nhiệt liệt .|1
+audio_datasets/0/59.wav|dần dần các con vật đó trở nên ngoan ngoãn , con người không cần phải đi săn nữa .|0
+audio_datasets/0/184.wav|trong khoảng thời gian này .|0
+audio_datasets/0/139.wav|trong mắt của cô vợ , lời khen của chồng không còn là một lời cảm ơn nữa , mà nó đã biến thành một sự ép buộc .|0
+audio_datasets/1/176.wav|nhưng các nghệ sĩ thì là một câu chuyện khác .|1
+audio_datasets/0/223.wav|hãy luôn hành thiện và nghĩ cho người khác .|0
+audio_datasets/1/278.wav|không chỉ có stalin , những thế hệ lãnh đạo sau đó cũng để lại những vấn đề mà ông phải xử lý .|1
+audio_datasets/0/116.wav|trong cuốn sách sức mạnh của thói quen .|0
+audio_datasets/0/229.wav|là bài học không thể tránh được .|0
+audio_datasets/0/68.wav|cậu thờ ơ , lười biếng , thậm chí còn nói rằng thà làm kẻ giết người và xuống địa ngục , còn hơn là ở bên người được gọi là cha này .|0
+audio_datasets/1/229.wav|một nhà nước mới được hình thành .|1
+audio_datasets/1/116.wav|họ cho phép địa chủ kết hôn với người bản địa .|1
+audio_datasets/1/408.wav|giờ thì quyền lực có rồi đấy .|1
+audio_datasets/1/304.wav|tuy vậy , những sự hỗ trợ đó đi kèm một cái giá , nhưng chúng ta sẽ chưa nói tới nó ở đây .|1
+audio_datasets/0/258.wav|giáo sư nói rằng , cái mà khách hàng cần không phải là một cái máy khoan mà là một cái lỗ khoan .|0
+audio_datasets/0/374.wav|tập đế thì phân tích nguyên nhân dẫn đến đau khổ , còn diệt đế và đạo đế nói về cách , làm thế nào để chấm dứt được đau khổ .|0
+audio_datasets/0/351.wav|giả dụ a là một công ty xây dựng gửi vào ngân hàng b một tỷ , sau đó c phai ngân hàng một tỷ để xây một ngôi nhà .|0
+audio_datasets/0/142.wav|hai vị quan nhân thay lời vu sở .|0
+audio_datasets/0/231.wav|nếu đi đúng đường , thì mặc cảm sẽ trở nên có lợi , trở thành đòn bẩy khiến cho người đó thực sự xuất sắc .|0
+audio_datasets/1/48.wav|họ trích hẳn mười lăm triệu đô la mỹ trong hơn năm trăm tỷ đô la lợi nhuận từ những năm chín mươi ra .|1
+audio_datasets/1/230.wav|thi lan chiến thắng .|1
+audio_datasets/0/85.wav|vì sợ hãi thôi thúc , đôi vợ chồng đã đưa một số người bạn đồng hành di cư đến một nơi mới .|0
+audio_datasets/1/266.wav|người anh mua trà từ trung quốc , nhưng họ cần gì đó để đổi lấy trà .|1
+audio_datasets/1/400.wav|defect là mảnh đất màu mỡ cho thông tin sai lệch gây hậu quả không đáng dù mục đích ban đầu chỉ để cho vui .|1
+audio_datasets/1/186.wav|và cuộc không kích diễn ra đúng như ý ông ta .|1
+audio_datasets/1/461.wav|nhưng vì sao thành gia định lại nhanh chóng thất thủ như thế , khi mà trước đó , người pháp đánh đà nẵng hàng tháng liền không được .|1
+audio_datasets/1/366.wav|năm một nghìn chín trăm linh sáu , vị shah ba tư , lúc đó là mosafat al dinqaza , đã phải đưa ra một hiến pháp mới .|1
+audio_datasets/1/32.wav|đảng này sau đó sẽ trải qua nhiều thay đổi dưới được đổi tên thành đảng quốc gia scotland .|1
+audio_datasets/0/311.wav|và có nhiều khiếm khuyết trong tính cách .|0
+audio_datasets/0/96.wav|nhưng chữ khổ không phải lẽ thường tình của mỗi người trong cuộc đời hay sao .|0
+audio_datasets/0/117.wav|dù bạn có tích lũy được bao nhiêu đi chăng nữa , địa vị , danh tiếng , tài sản lớn mạnh tới mức nào , thì khi ngưng thở , ta cũng không thể mang theo .|0
+audio_datasets/0/390.wav|cho dù đó là một màu bánh mì nhỏ .|0
+audio_datasets/0/333.wav|sau đó có một người đã nghiên cứu và phát hiện ra rằng ăn cam quýt , cải bắp sẽ ngăn ngừa và chữa trị được tình trạng này .|0
+audio_datasets/0/113.wav|điều này có thể dẫn đến cảm giác ghê tầm chính mình , nghĩ rằng tất cả là lỗi của con khi cha mẹ đánh con .|0
+audio_datasets/0/135.wav|mọi người bắt đầu nói rằng nếu chúng ta chỉ tin vào chúa và thần , chúng ta sẽ luôn dậm chân tại chỗ .|0
+audio_datasets/0/334.wav|rõ ràng là không thể .|0
+audio_datasets/1/389.wav|chỉ là không nơi nào có thể sánh ngang trung quốc mà thôi .|1
+audio_datasets/0/348.wav|chúng được phản ánh một cách không rõ ràng .|0
+audio_datasets/1/15.wav|vì thế , bạn lại nhẫn nhị để đường chia các đất nước mình di chuyển lên phía bắc ở vĩ tuyến mười bảy .|1
+audio_datasets/1/463.wav|một thành phố đã chết , rồi dần dần cũng ngã xuống theo thành phố này .|1
+audio_datasets/1/306.wav|và khi quan hệ hai bên hết vui , ông putin đã có sẵn thứ để chơi lại châu âu .|1
+audio_datasets/0/302.wav|bớt tức là thêm , ít tức là nhiều .|0
+audio_datasets/1/338.wav|tình thế đã đảo chiều .|1
+audio_datasets/0/93.wav|và mọi người xung quanh .|0
+audio_datasets/1/342.wav|hãy chỉ bán dầu của anh bạn bằng đồng đô la mỹ mà thôi .|1
+audio_datasets/1/86.wav|như vậy , việc xâm lược phần lan sẽ rất tốn kém và khó khăn hơn rất nhiều cho nga so với một ukraine đầy biến động .|1
+audio_datasets/1/0.wav|ông ta vì thế tìm cách thương lượng với triều đình huế nhưng bất thẳng .|1
+audio_datasets/1/241.wav|nhưng các lệnh cấm này không mang lại hiệu quả gì và đã bị bãi bỏ vào năm một nghìn năm trăm hai mươi tư theo lệnh của sultan suleyman i .|1
+audio_datasets/0/299.wav|michael lancheller .|0
+audio_datasets/0/90.wav|có lẽ câu chuyện muốn truyền đạt tới mọi người về cái gọi là khai ngộ .|0
+audio_datasets/1/284.wav|raffles phải trở về anh do nghi có khối u não .|1
+audio_datasets/1/448.wav|iran phản công bằng cách cũng đánh bom các tàu chở dầu của iraq đi qua eo biển hormuz .|1
+audio_datasets/0/54.wav|anh ta không còn cách nào khác là phải kết hôn với nhóm người quý tộc của mình .|0
+audio_datasets/1/343.wav|đất nước đã gây nhiều đau thương cho nhân dân hàn quốc .|1
+audio_datasets/1/271.wav|người mỹ , những người cũng ghét iran cay đắng , tham gia tái trợ cho iraq .|1
+audio_datasets/0/105.wav|đầu tiên đó là vứt bỏ đi tâm đối kỵ .|0
+audio_datasets/1/101.wav|con đường vào đảng của tập không mấy dễ dàng .|1
+audio_datasets/1/356.wav|hầu hết người dân , dù ở nông thôn hay thành thị , đều phải lo chạy ăn từng bữa .|1
+audio_datasets/1/47.wav|và bây giờ , ông putin cắt đi tất cả những điều đó chỉ để nhìn châu âu hỗn loạn nhằm trả thu .|1
+audio_datasets/0/214.wav|đây mới chính là trí tuệ sống biết cách ăn uống và phận động thực sự .|0
+audio_datasets/1/233.wav|trong khi đó , haiti thì vừa chiến tranh trong nước , vẫn liên miên , vừa bận cong lưng trả nợ cho pháp , nên không sang phía đông xâm lược được nữa .|1
+audio_datasets/0/201.wav|bà ấy dù đã ở độ tuổi bảy mươi tư , tóc trắng bạc phơ nhưng sự tự tin và khí chất của bà luôn toát lên một vẻ đẹp tuyệt vời .|0
+audio_datasets/1/42.wav|ông vội vàng ký với các nhà nước hiệp định liên bang , cho họ nhiều quyền tự trị hơn , với điều kiện họ sẽ không tách khỏi nga .|1
+audio_datasets/1/39.wav|lại không kéo dài lâu .|1
+audio_datasets/1/62.wav|và đài loan , một thuộc địa ở sát nhật bản , không tránh khỏi sự tấn công của mỹ .|1
+audio_datasets/1/405.wav|nhà nước mới này đi ngược lại hoàn toàn nhà nước cũ .|1
+audio_datasets/0/199.wav|câu nói này mình sẽ để lên trên màn hình .|0
+audio_datasets/1/388.wav|ông là chủ của một cửa hàng bán vỏ sò lớn cho người phương đông .|1
+audio_datasets/0/80.wav|nhưng thực chất là nhóm nghiên cứu này đã âm thầm xóa vết sẹo này đi .|0
+audio_datasets/1/198.wav|một lần nữa , trung quốc lại làm được điều này .|1
+audio_datasets/0/157.wav|đó là thấu hiểu nỗi khó khăn của người khác .|0
+audio_datasets/1/382.wav|và quan trọng nhất , đều là bạn thân của anh chàng mỹ .|1
+audio_datasets/1/115.wav|ngày mười một tháng chín năm hai nghìn không trăm linh một , một sự kiện gây chấn động cả nước mỹ cũng như cả thế giới diễn ra .|1
+audio_datasets/1/419.wav|thậm chí , theo một số ước tính .|1
+audio_datasets/1/194.wav|dù khác biệt về tôn giáo , họ cơ bản chung sống trong hòa bình .|1
+audio_datasets/0/318.wav|chúng ta luôn sợ thất bại , sợ khủng hoảng trước đau khổ , nhưng chẳng biết rằng chính những cay đắng khó chịu đó mới tạo nên con đường để chúng ta vươn lên .|0
+audio_datasets/0/202.wav|trên con đường theo đuổi ước mơ , đâu phải là việc gì chúng ta cũng có thể thuận buồm xuôi gió .|0
+audio_datasets/1/423.wav|sự không hài lòng này sớm đưa sự chia rẽ các dân tộc quay trở lại .|1
+audio_datasets/1/138.wav|điều mà đối thủ công ty dầu tiêu chuẩn cũng đang làm .|1
+audio_datasets/0/36.wav|đừng nàn trí cho dù chúng ta có đang ở dưới cùng của vực đáy .|0
+audio_datasets/0/388.wav|đối với việc tự xây dựng nguồn thu nhập , cách tốt nhất là phân bổ hợp lý hai bên đầu tạ .|0
+audio_datasets/0/3.wav|đó là để đối mặt với thế giới lạnh lùng , tàn khốc này , chứ không phải là để phàn nàn về cái thời đại khoan dung vĩ đại đó .|0
+audio_datasets/0/204.wav|giống như stephen , chỉ khi ý thức được rằng một người bất kể có thân phận gì thì từ đầu chỉ cuối cũng nên cố gắng hướng vào nội tại .|0
+audio_datasets/1/289.wav|trước một đồng ăn một đồng .|1
+audio_datasets/0/24.wav|bạn càng thích xem cái gì , nền tảng đó sẽ càng đề xuất đến bạn thứ đó .|0
+audio_datasets/0/203.wav|đó cũng là nỗi cô đơn mà bà vợ arcadio nếm trải , là nỗi cô đơn của hầu hết những người trong dòng họ bundia .|0
+audio_datasets/1/201.wav|mặc dù is giờ không còn mạnh như trước nữa .|1
+audio_datasets/1/77.wav|bạo lực lan rộng khắp iraq giữa hai phẻ .|1
+audio_datasets/1/376.wav|không còn sự đỡ lưng từ mỹ .|1
+audio_datasets/0/240.wav|và bây giờ , để thêm một bước làm tốt hơn nâng cấp tư duy của bản thân , chúng ta cần phải gian luyện tư duy để có bảy đặc điểm như sau .|0
+audio_datasets/0/270.wav|kiểu thứ ba đó là khuất tùng , quy phục .|0
+audio_datasets/0/317.wav|susan forward là người đầu tiên sử dụng thuật ngữ cha mẹ độc hại để chỉ những người cha mẹ tạo nên nỗi khó khăn mạnh mẽ cho con cái .|0
+audio_datasets/1/31.wav|đài loan trải qua những năm một nghìn chín trăm tám mươi với những chuyển biến lớn về chính trị .|1
+audio_datasets/1/346.wav|họ cảm thấy họ không thể cứ ngồi một mình ở đó .|1
+audio_datasets/1/156.wav|vấn đề là , pif cho wolverhampton hai lựa chọn .|1
+audio_datasets/1/166.wav|điều này khiến phép cực đoan của chủ nghĩa phục quốc do thái bất mãn .|1
+audio_datasets/0/89.wav|khi hiểu được vạn vật vô thường , bạn sẽ ngừng cố chấp .|0
+audio_datasets/1/416.wav|cả quá khứ và hiện tại đã chứng minh việc là một siêu cường không phải chuyện để đùa .|1
+audio_datasets/0/37.wav|bạn cần lắng nghe và hiểu những gì đối phương nói ra .|0
+audio_datasets/0/8.wav|đã trở nên rất tốt đẹp .|0
+audio_datasets/1/163.wav|đài loan nhanh chóng trở nên giàu có .|1
+audio_datasets/1/428.wav|khi trở về , họ mang theo những người dân tại bảy huyện phía nam sông cả .|1
+audio_datasets/1/22.wav|tuy nhiên , để hiểu rõ nguyên nhân thực sự , hãy xem hết video này đã .|1
+audio_datasets/1/243.wav|trong khi phe cực hữu israel tổ chức các cuộc biểu tình phản đối các cuộc đàm phán .|1
+audio_datasets/1/394.wav|cuối cùng , họ cũng đã có một nghị viện theo ý muốn .|1
+audio_datasets/1/140.wav|nếu bạn nhớ lại nội chiến nga cách đó gần ba mươi năm .|1
+audio_datasets/0/403.wav|thực chất , bản chất cốt lõi của cuốn sách này sẽ nằm ở ba cụm từ khóa như sau .|0
+audio_datasets/0/228.wav|phải đóng hết cửa hay không .|0
+audio_datasets/0/353.wav|nhưng bạn cần biết rằng , cuộc sống yên ổn không thể nào hoàn toàn thích ứng với cái gen săn bắt đã ăn vào gốc rễ của chúng ta .|0
+audio_datasets/0/47.wav|trong sách đã khuyên rằng bạn hãy đặt công việc quan trọng hoặc khó chịu nhất ở vị trí đầu tiên .|0
+audio_datasets/0/94.wav|nó mong manh , dễ vỡ .|0
+audio_datasets/1/273.wav|tuy vậy , đến đầu thế kỷ hai mươi , iran bắt đầu suy yếu và để các thế lực bên ngoài mò đến chia chắc mảnh đất của mình .|1
+audio_datasets/0/176.wav|rồi tiếp theo điều số ba .|0
+audio_datasets/0/155.wav|nhưng giờ nhìn lại thì mọi thứ nó đều nhẹ bẫng như một giấc mơ .|0
+audio_datasets/1/182.wav|những người tôn dùng ông không biết nên chọn ai là người thừa kế .|1
+audio_datasets/1/406.wav|anh mong muốn tìm một con đường mới để dân tộc của mình được độc lập .|1
+audio_datasets/1/290.wav|còn zuckerberg thì sẽ bớt nguy hiểm hơn .|1
+audio_datasets/1/137.wav|và giải thích cuối cùng , đó là tác động của internet .|1
+audio_datasets/1/415.wav|như liverpool chẳng hạn .|1
+audio_datasets/1/204.wav|bằng cách này , mỹ giữ được vị thế độc tôn cho đồng đô la mỹ .|1
+audio_datasets/0/323.wav|rồi , bước cuối cùng của việc chuyển đổi thói quen là làm cho nó trở nên thú vị .|0
+audio_datasets/1/147.wav|điều gì sẽ thu hút bạn ngay ánh nhìn đầu tiên khi đến một thành phố lớn tại một quốc gia phát triển .|1
+audio_datasets/0/172.wav|freud còn được mệnh danh là một trong ba người do thái đã thay đổi tư tưởng hiện đại .|0
+audio_datasets/1/192.wav|vịnh tăng thuế cũng ảnh hưởng tới toàn bộ dân chúng .|1
+audio_datasets/1/214.wav|chỉ cần một ít thời gian để biến họ hoàn toàn thành người của thiên chúa giáo và trở nên tận trùng với nước pháp .|1
+audio_datasets/1/112.wav|thậm chí , cuối năm một nghìn tám trăm sáu mươi mốt .|1
+audio_datasets/0/198.wav|giống như nhà đầu tư thông thái với chiếc lì sống sâu sắc .|0
+audio_datasets/1/334.wav|giám mục pellerin cho rằng các giáo dân này sẽ hỗ trợ cho liên quân .|1
+audio_datasets/1/309.wav|nếu muốn nhận tiền tiếp , thì làm gì đó về đám biểu tình đi .|1
+audio_datasets/0/404.wav|hãy tĩnh tâm lại , biết rõ rằng đơn giản đó là những lời nhận xét thôi .|0
+audio_datasets/1/29.wav|đó là khoảng năm một nghìn bảy trăm chín mươi lăm , sau đó nửa phía đông mới bị người tây ban nha chiếm lại vào năm một nghìn tám trăm linh chín .|1
+audio_datasets/1/28.wav|sô cô la lại là một câu chuyện khác .|1
+audio_datasets/1/144.wav|nên đã quyết định mỗi người sẽ đi theo một hướng riêng .|1
+audio_datasets/0/209.wav|chúng ta tin rằng , ảo tưởng là thực tế .|0
+audio_datasets/1/355.wav|mặc dù vậy , rok đã giúp cho steve jobs .|1
+audio_datasets/1/265.wav|yêu cầu của mỹ được chấp thuận .|1
+audio_datasets/1/148.wav|mối quan hệ hai bên lại trở nên căng thẳng .|1
+audio_datasets/1/58.wav|tập cận bình năm hai nghìn không trăm linh một .|1
+audio_datasets/1/153.wav|dù vậy , việc phát triển ngoại thương đã đem đến sức mạnh mà các chú nguyễn cần .|1
+audio_datasets/0/381.wav|trận bạch đằng vào năm nào .|0
+audio_datasets/0/188.wav|là một nhà thơ .|0
+audio_datasets/1/209.wav|nhưng thế cũng có nghĩa là các bài hát sẽ dần được viết để phù hợp với thuật toán .|1
+audio_datasets/1/75.wav|đổi lại , các ông sẽ có nhiều việc làm cho người dân , tận thu được dầu , và còn có nhiều nguồn đầu tư .|1
+audio_datasets/1/6.wav|đã thuyết domino vào hoàn cảnh này .|1
+audio_datasets/0/163.wav|thứ năm , tôi không thể sống thiếu bố mẹ .|0
+audio_datasets/0/402.wav|cô ấy tên là esmeralda , cô gái trăng trải bằng nghề mùa giông .|0
+audio_datasets/1/312.wav|ông putin nhận mình là người bảo vệ nước nga .|1
+audio_datasets/0/87.wav|theo tác giả chỉ ra , thông thường con người sẽ có ba cách tiếp cận .|0
+audio_datasets/1/372.wav|tuy nhiên , tây ban nha lúc này đang chiếm đóng tại philippines phản đối , cho rằng barcelona thuộc philippines nên pháp phải rút khỏi đây .|1
+audio_datasets/1/111.wav|họ dễ dàng từ chối bằng cách nhấn vào nút .|1
+audio_datasets/1/202.wav|và cái gì đến , giờ cũng phải đến .|1
+audio_datasets/0/88.wav|ba bước trên rất hữu dụng với mình khi học và đọc về một lĩnh vực mới .|0
+audio_datasets/0/175.wav|thứ hai , đó là người dựng trại .|0
+audio_datasets/0/242.wav|thế nhưng , người dân markender vun sống lắc hậu và khép kín , cho rằng anh ta là một kẻ mưa tưởng điên rồ .|0
+audio_datasets/1/53.wav|nhưng có thể là bởi những mục tiêu quan trọng hơn như kiểm soát lãnh thổ và mở rộng ảnh hưởng tại các tuyến đường thương mại .|1
+audio_datasets/0/129.wav|xấu hổ có thể xâm nhập vào bên trong bạn , nhưng sự bối rối sẽ có thể biến mất bằng một nụ cười .|0
+audio_datasets/1/244.wav|họ không muốn bị mất phần , nên đã nhanh chân đến đồng hòa dominica trước và đã nhận được phần ăn chia lớn nhất trong cái bánh đường mỹ ở đây .|1
+audio_datasets/1/237.wav|với sức mạnh quân sự vượt trội , họ đã tiếp tục tiến về phía nam , hướng về bán đảo đông dương .|1
+audio_datasets/0/192.wav|đương nhiên , chúng ta bắt đầu suy ngẫm để phát minh ra các công cụ .|0
+audio_datasets/1/401.wav|năm một nghìn chín trăm năm mươi , với sự hậu thuẫn của liên xô .|1
+audio_datasets/1/213.wav|họ sống hòa minh với thiên nhiên .|1
+audio_datasets/0/324.wav|không phải là vì chúng ta bất tài , mà bởi vì cuộc sống vốn dĩ nó đang ở cái trạng thái trồng trập của rất rất nhiều khả năng .|0
+audio_datasets/0/73.wav|đã có vài lần , nhưng bản thân nỗi đau là cuộc sống .|0
+audio_datasets/1/295.wav|hệ quả của việc này là các công ty như hyundai , samsung và lg buộc phải có sức cạnh tranh toàn cầu .|1
+audio_datasets/0/329.wav|thứ hai , sau khi hiểu được vì sao thức giận , hãy cố gắng giảm bớt những yếu tố gây ra vấn nộ .|0
+audio_datasets/0/9.wav|mặc dù là mấy hôm nay mình đang chuẩn bị cho video chia sẻ cuốn sách mới cho các bạn .|0
+audio_datasets/1/74.wav|nhưng stalin thì không thể sống mãi .|1
+audio_datasets/1/373.wav|người anh đã yếu đi .|1
+audio_datasets/1/37.wav|tỷ lệ này đã cao hơn một trăm phần trăm trong phần lớn năm hai nghìn không trăm hai mươi ba .|1
+audio_datasets/1/240.wav|làn sóc phản đối và ủng hộ fidel bùng lên khắp cuba .|1
+audio_datasets/1/412.wav|đứng ra lãnh trách nhiệm ở bán đảo triều tiên .|1
+audio_datasets/1/105.wav|đúng rồi , lại là dầu đó .|1
+audio_datasets/0/33.wav|chúng ta khao khát sự chia sẻ , nhưng lại sợ bị tổn thương .|0
+audio_datasets/0/264.wav|họ rất nhạy cảm , chống lại hay tránh né bất cứ điều gì liên quan đến nghĩa vụ và áp lực .|0
+audio_datasets/1/79.wav|họ phá hủy đền chùa , những di tích , di vật lịch sử , đổi tên đường phố , bất kỳ thứ gì liên quan đến những giá trị cũ .|1
+audio_datasets/1/379.wav|lý cường phải chịu trách nhiệm cho những thất bại khi thượng hải bị phong tỏa mà không thể cung cấp đầy đủ thực phẩm cho hàng chục triệu người dân của thành phố này .|1
+audio_datasets/0/298.wav|không phải vì sự khác biệt lớn về quan điểm .|0
+audio_datasets/0/83.wav|bởi vì đây là một quá trình tốt để bạn thực hiện tình yêu thương vị tha .|0
+audio_datasets/0/332.wav|tuy nhiên , đây lại là một kết luận hoàn toàn sai lầm .|0
+audio_datasets/0/337.wav|đừng ngồi quá lâu , hãy di chuyển cơ thể của mình .|0
+audio_datasets/1/19.wav|cả hai đều nhận mình mới là trung quốc và xem kẻ bên kia eo biển là phần tử ly khai phải bị tiêu diệt để trung quốc được thống nhất .|1
+audio_datasets/1/30.wav|cậu bé tập đã trải qua những năm thiếu thời trong cuộc sống đầy đủ , tiện nghi khi mà phần lớn người trung quốc còn sống trong nghèo đói .|1
+audio_datasets/1/57.wav|người mỹ , một người bạn thân của batista .|1
+audio_datasets/0/70.wav|giữ chung một mục tiêu thực sự rất quan trọng .|0
+audio_datasets/1/440.wav|liệu sự thông minh của trí tuệ nhân tạo sẽ là tương lai tươi sáng , hay nó sẽ là nguồn gốc của một nỗi sợ mới mà nhân loại chưa từng trải qua .|1
+audio_datasets/1/339.wav|năm một nghìn chín trăm linh tám , người anh phát hiện ra thứ khiến vùng trung đông này trở nên đặc biệt quan trọng .|1
+audio_datasets/1/462.wav|một đường biên giới .|1
+audio_datasets/1/424.wav|không thích mạng xã hội .|1
+audio_datasets/0/330.wav|với một tuổi thơ đầy áp đau buồn như vậy , thì theo thuyết phân tâm học , người trải qua nhiều tổn thương khi còn nhỏ .|0
+audio_datasets/1/364.wav|thần thoại hy lạp kể rằng .|1
+audio_datasets/1/164.wav|vậy nên một thế lực khác định tận dụng thời cơ nhảy vào tranh chấp .|1
+audio_datasets/1/168.wav|mao trạch đông nổi tiếng là một người thích bơi , không chỉ để giải quyết sức khỏe , mà còn để tuyên truyền cho lý tưởng của ông ta .|1
+audio_datasets/0/101.wav|vậy làm cách nào để có thể vượt qua được cơn nghiện này một cách hiệu quả .|0
+audio_datasets/1/345.wav|bạn không thể để kẻ thù liên xô của bạn chiến thắng ở việt nam được .|1
+audio_datasets/0/154.wav|trong rất nhiều trường hợp , không phải là trở ngại ở bên ngoài hạn chế chúng ta , mà chính là cái sự nhìn thấy quá sớm về một số phận của chính mình .|0
+audio_datasets/1/63.wav|còn người việt sẽ được buôn bán tại các hải cảng của pháp và tây ban nha .|1
+audio_datasets/1/197.wav|tương lai của scotland phụ thuộc vào nhiều yếu tố .|1
+audio_datasets/0/300.wav|càng trốn tránh việc gì thì sẽ càng đâm đầu vào thứ đó .|0
+audio_datasets/0/106.wav|tại sao phải diệt virus hp .|0
+audio_datasets/1/46.wav|nhưng mao nhìn xung quanh , sau hàng chục năm chiến tranh , trung quốc chỉ là một đống đổ nát .|1
+audio_datasets/1/336.wav|gã làn thế khiến petrodollar của bạn lung lầy dữ dội .|1
+audio_datasets/0/220.wav|cũng có lúc như một con thuyền .|0
+audio_datasets/1/397.wav|họ đã đào chúng vàng .|1
+audio_datasets/1/314.wav|triều tiên ngả về phía liên xô .|1
+audio_datasets/1/5.wav|ngô đình diệm muốn thay đổi điều này .|1
+audio_datasets/0/234.wav|có nghĩa là tại sao bạn lại có cảm xúc như vậy .|0
+audio_datasets/1/359.wav|và cách duy nhất để nga tránh khỏi việc rơi vào một tình trạng hỗn loạn là ném nó sang một quốc gia láng giềng như ukraine .|1
+audio_datasets/0/46.wav|khi thấy đói thì hãy ăn .|0
+audio_datasets/1/44.wav|cuộc nội chiến đẩy trung quốc lún sâu hơn nữa và buồn lầy , cuối cùng để cho những kẻ khó chịu này ở phía đông tận dụng .|1
+audio_datasets/0/293.wav|chúng ta cũng có thể vui mừng trước sự phát triển , đơm hoa và thành tiệu của mọi người trên thế giới .|0
+audio_datasets/1/151.wav|vậy điều gì sẽ xảy ra nếu scotland rời vương quốc anh .|1
+audio_datasets/1/293.wav|đó là lúc anh tìm thấy chủ nghĩa cộng sản .|1
+audio_datasets/1/221.wav|thương vong nhanh chóng vượt qua ngày mà nước mỹ cho là ngày của sự nhục nhãi .|1
+audio_datasets/0/261.wav|nhóm nghiên cứu đã để một người phụ nữ trẻ đứng ở giữa cầu , đợi những người đàn ông trong độ tuổi mười tám đến ba mươi lăm đi ngang qua .|0
+audio_datasets/0/339.wav|đây là chuyên mục radio phát triển bản thân của better reason .|0
+audio_datasets/0/309.wav|nếu bạn cảm thấy video này có ích .|0
+audio_datasets/0/380.wav|trong thời đại ham muốn vật chất như hiện nay , chúng ta luôn vô thức bị cuốn vào xu hướng tiêu dùng quá mức .|0
+audio_datasets/1/256.wav|điều này bắt nguồn từ việc đà nẵng nằm trong một khu vực mà người pháp muốn chiếm cứ từ lâu để phục vụ cho các hoạt động thương mại và quân sự tại vùng biển đông việt nam .|1
+audio_datasets/1/299.wav|có thể nói , nếu không có những trang như pirates by hay napster sẽ khó mà có spotify như bây giờ .|1
+audio_datasets/1/410.wav|ngược lại , để phát triển đồng băng sông cửu long sẽ cần đưa rất nhiều người từ thuận hóa và quảng nam vào khai hoang .|1
+audio_datasets/0/141.wav|chính vì thế , ở phần tiếp theo , chúng ta sẽ cùng tìm hiểu những chiến lược phòng thủ qua ba tính cách trong xung đột nội tâm cơ bản .|0
+audio_datasets/1/189.wav|trong khi đó , với một khoản phí không quá lớn , người dùng ngày càng sẵn sàng chi tiền .|1
+audio_datasets/1/291.wav|mao và tưởng tiếp tục lại cuộc chiến mà họ đang đánh dở .|1
+audio_datasets/0/377.wav|khi tâm sự với người khác về quá khứ bị lính iraq hãm hiếp trên xe tải , cô thường nói rằng , bị cưỡng hiếp không phải là điều lớn nhất trong cuộc đời tôi .|0
+audio_datasets/0/291.wav|điều gì không giết được bạn sẽ chỉ khiến cho bạn mạnh mẽ hơn .|0
+audio_datasets/1/113.wav|hôm nay , áo ước từ lâu của người dân hàn quốc đã được thực hiện .|1
+audio_datasets/0/7.wav|chính vì thế , con người đã bắt đầu bước vào thời đại đề chế .|0
+audio_datasets/0/182.wav|thân người khó mà có được , nhưng nay chúng ta có được .|0
+audio_datasets/1/381.wav|việc lọt vào một danh sách như thế có thể tăng lượt nghe từ năm mươi phần trăm đến một trăm phần trăm .|1
+audio_datasets/0/423.wav|ví dụ bạn có thể hiểu nếu bạn nằm mơ lo lắng về điều gì đó có nghĩa là thời gian ở thực tế bạn chưa có thể làm được việc mà mình muốn .|0
+audio_datasets/0/170.wav|trôn đã không chọn cách khóc .|0
+audio_datasets/1/84.wav|rồi lại nhìn gắt đa phi tin lời mỹ từ bỏ vũ khí hủy diệt .|1
+audio_datasets/0/210.wav|vào đầu tuần , bạn nên viết ra danh sách các nhiệm vụ quan trọng cần làm .|0
+audio_datasets/1/251.wav|bây giờ để giảng hòa , tôi có một kèo ngon cho anh bạn đây .|1
+audio_datasets/1/344.wav|điều này làm trung quốc cắt đi nhiều viện trợ cho triều tiên .|1
+audio_datasets/0/79.wav|luôn ghi nhớ về mục tiêu ban đầu .|0
+audio_datasets/0/361.wav|hai người bên nhau như là một thói quen .|0
+audio_datasets/0/233.wav|hai là ngay cả những đứa trẻ nổi loạn cũng thừa nhận rằng chúng sẵn sàng lắng nghe ý kiến của cha mẹ .|0
+audio_datasets/1/219.wav|những gì xảy ra ở iran đã củng cố thêm sự thù nghịch giữa hai bên .|1
+audio_datasets/1/73.wav|thay vào đó lại chỉ tập trung vào các mạng xã hội .|1
+audio_datasets/0/407.wav|phải biết cách đưa ra quyết định cốt lõi .|0
+audio_datasets/1/4.wav|cũng như , hòn đảo này vẫn là cảng vận chuyển bận rộn hàng đầu thế giới .|1
+audio_datasets/1/261.wav|trong khi đó , ở washington , mất kiên nhẫn với chính quyền miền nam việt nam và sự đối lập trong chính sách của johnson và kennedy .|1
+audio_datasets/1/152.wav|nhưng mà không phải ai cũng vui .|1
+audio_datasets/1/94.wav|và liệu có một ngày , điều này sẽ kết thúc .|1
+audio_datasets/1/323.wav|một cho người do thái và một cho người ả rập .|1
+audio_datasets/1/414.wav|vấn đề là ở chỗ .|1
+audio_datasets/0/282.wav|và nó được tác giả gọi là đạo đức công việc .|0
+audio_datasets/0/18.wav|và mọi người vẫn thường nghĩ rằng thiên tài là những người khi sinh ra vốn có sẵn cho mình một năng lực hơn người .|0
+audio_datasets/1/437.wav|cùng với số người việt định cư trong vùng tây sơn , các dân tộc thiều số tại đây cũng đã trở thành một phần quan trọng trong lực lượng của tây sơn vào buổi đầu .|1
+audio_datasets/1/294.wav|thứ nhất , đó là bởi tầm quan trọng của vịnh đà nẵng tại biển đồng .|1
+audio_datasets/0/306.wav|chúng ta cũng vội vàng đứng lên , lễ phép trò hỏi .|0
+audio_datasets/0/168.wav|chớ treo thay các phương pháp điều trị ung thư truyền thống dựa trên hóa trị và xá trị , thực sự là làm suy yếu hệ miễn dịch .|0
+audio_datasets/1/139.wav|mà thành lập al qaeda tại iraq .|1
+audio_datasets/1/441.wav|ngay trong trường hợp của neves , bạn cần phải biết rằng .|1
+audio_datasets/0/340.wav|vậy thì bạn nghĩ bản chất ý thức của bạn là gì .|0
+audio_datasets/0/312.wav|một trường hợp khác , nếu cha mẹ không đủ hợp tác với nhau thì cũng không thể hy vọng con mình biết cách hợp tác .|0
+audio_datasets/1/120.wav|kim tới moscow , thủ đô của liên xô , để hỏi stalin về việc tổ chức chiến tranh thống nhất đất nước .|1
+audio_datasets/0/362.wav|nó sẽ đem lại cho bạn cảm giác tự hào và khuyến khích bạn đi hoàn thành những việc tiếp theo .|0
+audio_datasets/0/74.wav|và thế giới thì luôn thay đổi tróng mặt , còn cha mẹ thì già theo năm tháng .|0
+audio_datasets/0/130.wav|hơn là với mười nhiệm vụ đã hoàn thành .|0
+audio_datasets/1/40.wav|trong nhật ký một chuyến du hành đến sứ nam hà .|1
+audio_datasets/0/376.wav|nó đưa ra mục tiêu , đánh giá các hành vi khác nhau của bản thân , và cũng là cái tôi mà mọi người đều mong muốn trả thành nhất .|0
+audio_datasets/1/1.wav|người mỹ đổ lỗi cho người tây ban nha và bắt đầu một cuộc chiến tranh .|1
+audio_datasets/1/348.wav|cuộc chiến này gây nên lan sóng phạt đối dữ dội tới mức , nhiều người thậm chí còn dự đoán , đây sẽ là điểm bắt đầu cho sự sụp đổ của putin .|1
+audio_datasets/1/297.wav|dù bạn có thích hay ghét ông ta , bạn phải thừa nhận rằng ngô đình diệm thực sự có tài năng ngoại giao đấy .|1
+audio_datasets/1/68.wav|những người theo đạo hồi chiếm đa số , sau đó là kỳ tô giáo và do thái giáo chiếm thiểu số .|1
+audio_datasets/1/35.wav|sau khi quân mỹ rút khỏi hàn quốc , kim thấy đây là thời cơ cho một cuộc chiến .|1
+audio_datasets/1/255.wav|biên bản này sau đó được đệ lên pháp hoàng .|1
+audio_datasets/1/352.wav|tất cả bắt đầu từ hơn một thế kỷ trước .|1
+audio_datasets/0/307.wav|trừ khi bạn đồng ý , bằng không , chẳng ai có thể làm tổn thương bạn cả .|0
+audio_datasets/0/250.wav|bạn cũng có thể dùng ý niệm của chính bạn .|0
+audio_datasets/1/110.wav|hàng tá nước khác cũng có rất nhiều giàu , nhưng bây giờ chỉ là một đống đổ nát .|1
+audio_datasets/1/133.wav|năm một nghìn chín trăm sáu mươi mốt , gdp bình quân đầu người của hàn quốc chỉ đạt chín mươi tư đô la mỹ mỗi người .|1
+audio_datasets/0/316.wav|nếu chúng ta muốn chữa lành những nỗi đau , sự bất lực của chính mình , chúng ta cần phải có một trái tim rộng mở để chúng ta có thể học cách bao dung hơn .|0
+audio_datasets/1/7.wav|những gì cố thủ tướng anh winston churchill nói hơn bảy mươi năm trước lại ua về .|1
+audio_datasets/1/130.wav|anh hàng xóm này đã giúp đỡ bạn rất nhiều trong chiến tranh với mỹ , cũng thế thốt với nhau , mồi hở răng lạnh các kiểu .|1
+audio_datasets/1/260.wav|họ không dùng bạo lực .|1
+audio_datasets/0/254.wav|anh ta đã phải hứng chịu hai cú đả kích lớn liên tiếp .|0
+audio_datasets/0/205.wav|phật giáo tin rằng , gốc rễ của mọi đau khổ và luân hồi nằm ở chấp ngã .|0
+audio_datasets/1/218.wav|nhưng không , gần một năm sau ngày đội tuyển argentina đăng quang , tình hình còn tệ hơn nhiều .|1
+audio_datasets/1/82.wav|thứ ba , lời tự do đi lại và tự do buôn bán cho người châu âu trong toàn bộ lãnh thổ việt nam .|1
+audio_datasets/0/259.wav|nhiều người rất cảm động trước kinh nghiệm việc làm của ông .|0
+audio_datasets/0/394.wav|tác giả còn nói rằng , sự hiểu biết của con người về ý thức chỉ là phần nổi của tảng băng trôi .|0
+audio_datasets/0/248.wav|theo thống kê của tổ chức y tế thế giới , chỉ riêng năm hai nghìn không trăm mười lăm , mười bảy phẩy bảy triệu người chết vì bệnh tim mạch , tám phẩy tám triệu người chết vì ung thư .|0
+audio_datasets/1/311.wav|kế hoạch năm năm lần thứ nhất tăng trưởng kinh tế đạt tám phẩy ba phần trăm trên năm .|1
+audio_datasets/0/165.wav|cái gì trong con người ta bị vỡ .|0
+audio_datasets/1/272.wav|chúng tôi có tiền , có việc làm , có công nghệ cơ sở hạ tầng .|1
+audio_datasets/1/215.wav|đã nhiều lần hai bên muốn mở lòng để quay lại .|1
+audio_datasets/0/345.wav|bạn cần phải biết rằng niềm vui không đến từ bất cứ cuốn sách nào , mà đến từ chính bạn .|0
+audio_datasets/0/75.wav|và hẳn là sẽ lạnh lùng không dung thứ cho bất cứ sai lầm nào .|0
+audio_datasets/0/387.wav|cô sinh ra là con một trong gia đình quý tộc giàu có , được cha mẹ cưng chiều từ bé .|0
+audio_datasets/1/71.wav|ngành công nghiệp âm nhạc thực sự đang rơi tự do .|1
+audio_datasets/1/450.wav|không phải một , hai hay ba người , mà là toàn bộ .|1
+audio_datasets/1/252.wav|với uy tín của mình , aung san đã thuyết phục phần lớn các dân tộc cùng hòa nhập trong nhà nước miến điện mới .|1
+audio_datasets/1/263.wav|vì thế ngày nay , thụy sĩ vẫn thu hút những dòng người nước ngoài tìm đến .|1
+audio_datasets/0/230.wav|vì vậy , có thể nói , ruột của chúng ta luôn ảnh hưởng đến não và cũng có mối liên hệ mật thiết với cảm xúc của chúng ta .|0
+audio_datasets/1/413.wav|thay vì dùng người bản địa , người pháp lại đem những người nô lệ da đen từ châu phi đến để làm việc cho mình .|1
+audio_datasets/0/71.wav|nó đã được dịch ra bốn mươi thứ tiếng , đạt giải pulitzer và có ảnh hưởng sâu rộng trên toàn thế giới .|0
+audio_datasets/1/442.wav|điều này khiến các đồng minh của mỹ tại châu âu lại một lần nữa bị đặt vào báo động .|1
+audio_datasets/0/213.wav|họ được nhiều người biết đến hơn , nhiều phương tiện truyền thông phỏng vấn , tham gia vào những talk show được đánh giá cao nhất trong lịch sử của mỹ như là .|0
+audio_datasets/1/3.wav|và liệu tương lai sẽ có sự thay đổi hay không .|1
+audio_datasets/1/301.wav|vậy nên , saddam cần bị loại bỏ ngay lập tức .|1
+audio_datasets/1/270.wav|đó là câu chuyện làm thế nào ả rập xê út trở nên giàu có và mạnh mẽ như vậy .|1
+audio_datasets/1/327.wav|hay là nghe tại việt nam , những chiếc iphone luôn rất đắt hàng , nhưng doanh số bán mac lại không nhiều .|1
+audio_datasets/1/8.wav|người mỹ liên xếp iran vào nhóm tài trợ khủng bố .|1
+audio_datasets/0/65.wav|và lý do tiếp theo đó là họ thiếu đi năng lực trì hoãn với những niềm vụi trước mắt .|0
+audio_datasets/0/91.wav|thực chất thì hầu hết bác sĩ đều biết rằng , ngoài phương pháp y tế hiện đại , chế độ ăn uống là một đơn thuốc tiện lợi mà vô cùng tiết kiệm .|0
+audio_datasets/1/45.wav|câu chuyện đài loại là , vào một chiều nọ , cậu bé chăn dê tên là kadi đã không gọi được lũ dê về .|1
+audio_datasets/0/104.wav|nếu với luyện tập mà bạn đã cố gắng ngồi ba mươi đến sáu mươi phút thì rất dễ bị bọc cột giữa chừng .|0
+audio_datasets/1/369.wav|còn người hoa ở singapore phản đối những đặc quyền dành cho người mã lai .|1
+audio_datasets/1/175.wav|khi obama không còn tại vị , mọi chuyện không còn được như vậy .|1
+audio_datasets/0/118.wav|để giúp bạn giải quyết cân đói .|0
+audio_datasets/0/181.wav|đã nghĩ mình thua kém đàn ông .|0
+audio_datasets/1/128.wav|nhưng triều tiên chưa bao giờ thực sự chấp ảnh chủ .|1
+audio_datasets/0/253.wav|vào thời cổ đại , có một thương nhân mặc dù rất giàu có , nhưng ngày nào cũng chất chứa phiền muộn .|0
+audio_datasets/1/454.wav|tàn giã vào năm một nghìn chín trăm chín mươi mốt .|1
+audio_datasets/1/222.wav|trung quốc cũng đe dọa đến các nước đồng minh của mỹ với các tranh chấp lãnh thổ không dứt .|1
+audio_datasets/0/241.wav|người nghiên cứu tâm lý học chỉ áp dụng phương pháp tâm lý để giải thích vấn đề .|0
+audio_datasets/1/298.wav|đây là cuộc trao đổi đôi bên cùng thắng lợi với công cụ là đô la và dầu .|1
